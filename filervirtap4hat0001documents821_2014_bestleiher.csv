@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MEDIENNR;VERFASSERIN;TITEL;MEDIENGRUPPE;SYSTEMATIK;ANZAHL_AUSLEIHEN;ANZAHL_TITEL
 1068688;Kinney, Jeff;Geht's noch?;Buch;JE;1671;122
 1097799;Kinney, Jeff;Keine Panik!;Buch;JE;1658;116
@@ -998,3 +999,1005 @@ MEDIENNR;VERFASSERIN;TITEL;MEDIENGRUPPE;SYSTEMATIK;ANZAHL_AUSLEIHEN;ANZAHL_TITEL
 0553981;Boehme, Julia;Conni und der Liebesbrief;Buch;JE.L;264;27
 0347891;Rübel, Doris;Wir entdecken unseren Körper;Buch;JD.JN;264;28
 0964634;Gehm, Franziska;Herzgeflatter im Duett;Buch;JM.G;264;30
+=======
+MEDIENNR;VERFASSERIN;TITEL;MEDIENGRUPPE;SYSTEMATIK;ANZAHL_AUSLEIHEN;ANZAHL_TITEL
+1068688;Kinney, Jeff;Geht's noch?;Buch;JE;1671;122
+1097799;Kinney, Jeff;Keine Panik!;Buch;JE;1658;116
+0971932;Kinney, Jeff;Jetzt reicht's!;Buch;JE;1598;118
+1013354;Kinney, Jeff;Ich war's nicht!;Buch;JE;1518;109
+0920034;Kinney, Jeff;Von Idioten umzingelt!;Buch;JE;1437;105
+1152807;Kinney, Jeff;Dumm gelaufen;Buch;JE;1382;99
+0938732;Kinney, Jeff;Gibt's Probleme?;Buch;JE;1323;106
+1198322;Kinney, Jeff;Echt übel!;Buch;JE;1244;85
+1068739;Bornstädt, Matthias ¬von¬;Wickie wird entführt;Buch;JM.C;1074;76
+1116806;Bornstädt, Matthias ¬von¬;Wickie in der Klemme;Buch;JM.C;1072;78
+1068738;Bornstädt, Matthias ¬von¬;¬Das¬ große Hicksen;Buch;JM.C;970;80
+1192957;Hunter, Erin;Blausterns Prophezeiung;Buch;JM.F;888;86
+1191944;Schirach, Ferdinand ¬von¬;Tabu;Buch;DR.D;866;72
+1087345;Hunter, Erin;¬Das¬ Gesetz der Krieger;Buch;JM.F;840;76
+1198282;Jonasson, Jonas;¬Die¬ Analphabetin, die rechnen konnte;Buch;DR;798;51
+1041514;Vogel, Maja ¬von¬;Herzklopfen!;Buch;JE.D;796;72
+1168612;Leon, Donna;Tierische Profite;Buch;DR.D;793;57
+1070589;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss auf der Suche nach Atlantis;Buch;JM;774;60
+1068253;Vogel, Maja ¬von¬;Falsches Spiel im Internat;Buch;JE.D;766;68
+1093229;Jonasson, Jonas;¬Der¬ Hundertjährige, der aus dem Fenster stieg und verschwand;Buch;DR;754;61
+1087192;Beer, Hans ¬de¬;Lars, bring uns nach Hause!;Buch;JD.R;752;72
+0988857;Nöstlinger, Christine;Detektivgeschichten vom Franz;Buch;JE.C;736;59
+1044015;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und die starken Wikinger;Buch;JM;730;53
+1183675;Rossmann, Eva;Männerfallen;Buch;DR.D;729;47
+1103311;Glattauer, Daniel;Ewig Dein;Buch;DR;727;70
+1124066;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss reist in die Steinzeit;Buch;JM;727;53
+1118270;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss im Weltraum;Buch;JM;711;53
+1121352;Vogel, Maja ¬von¬;Mia Meermädchen und der Korallenschatz;Buch;JM.C;700;54
+1183689;Winter, Léon ¬de¬;¬Ein¬ gutes Herz;Buch;DR;692;86
+0965008;Vogel, Maja ¬von¬;V.I.P.-Alarm;Buch;JE.D;684;60
+1198296;Mankell, Henning;Mord im Herbst;Buch;DR.D;681;45
+1125967;Hunter, Erin;¬Das¬ Schicksal des WolkenClans;Buch;JM.F;672;70
+1062528;Collins, Suzanne;Flammender Zorn;Buch;JM.U;671;52
+1123985;Dietl, Erhard;¬Die¬ Olchis und der Schmuddel-Hund;Buch;JM.C;666;47
+1125939;Leon, Donna;Himmlische Juwelen;Buch;DR.D;666;58
+1182038;Adler-Olsen, Jussi;Erwartung;Buch;DR.E;664;48
+1198290;Nesbø, Jo;Koma;Buch;DR.D;663;44
+1222057;Kürthy, Ildikó ¬von¬;Sternschanze;Buch;DR;662;80
+1214347;Beer, Hans ¬de¬;Hase und Maulwurf;Buch;JD;656;80
+0988844;Dietl, Erhard;¬Die¬ stärksten Olchis der Welt;Buch;JM.C;656;47
+1184089;Hunter, Erin;Mitternacht;Compact Disc;CD.JM.F;656;76
+1044436;Hunter, Erin;In die Wildnis;Compact Disc;CD.JM.F;646;76
+1033915;Dietl, Erhard;¬Die¬ Olchis auf dem Schulfest;Buch;JM.C;642;48
+1065964;Osborne, Mary Pope;Gefangen im Elfenwald;Buch;JM;640;48
+1164667;Walker, Martin;Femme fatale;Buch;DR.D;634;51
+1215356;Glattauer, Daniel;¬Die¬ Wunderübung;Buch;DD.D;634;46
+1214330;Beckett, Simon;¬Der¬ Hof;Buch;DR.E;625;43
+0938423;Vogel, Maja ¬von¬;Spuk am See;Buch;JE.D;624;58
+0988820;Collins, Suzanne;Tödliche Spiele;Buch;DR.JU;622;51
+1188597;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss bei den Dinosauriern;Buch;JM;621;47
+0990623;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und das Vampir-Abenteuer;Buch;JM;620;48
+1168610;Brown, Dan;Inferno;Buch;DR.E;616;52
+0938656;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss im Spukschloss;Buch;JM;616;46
+1212467;Murakami, Haruki;¬Die¬ Pilgerjahre des farblosen Herrn Tazaki;Buch;DR;614;43
+1020361;Vogel, Maja ¬von¬;Undercover im Netz;Buch;JE.D;614;54
+1168961;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss - Schulausflug ins Abenteuer;Buch;JM;613;45
+1194140;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss bei den Dinosauriern;Compact Disc;CD.JM;611;77
+1199061;Moyes, Jojo;¬Eine¬ Handvoll Worte;Buch;DR.G;611;43
+1176854;Moyes, Jojo;¬Ein¬ ganzes halbes Jahr;Buch;DR.G;611;44
+0965010;Vogel, Maja ¬von¬;Total verknallt!;Buch;JE.D;608;58
+1085784;Osborne, Mary Pope;Geister in der Nebelnacht;Buch;JM;606;46
+1193108;Glattauer, Nikolaus;Mitteilungsheft: Leider hat Lukas ...;Buch;DR.L;602;48
+0965280;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und der Schatz im Dschungel;Buch;JM;598;43
+1183531;Hosseini, Khaled;Traumsammler;Buch;DR;595;45
+1120177;Osborne, Mary Pope;¬Das¬ Gift der Königskobra;Buch;JM.F;593;44
+1030845;Collins, Suzanne;Gefährliche Liebe;Buch;JM.U;590;52
+0920471;Vogel, Maja ¬von¬;Popstar in Not;Buch;JE.D;590;58
+1168589;Dietl, Erhard;¬Die¬ Olchis und der Geist der blauen Berge;Buch;JM.C;589;43
+1183533;Kehlmann, Daniel;F;Buch;DR;588;48
+0922269;Osborne, Mary Pope;Angriff des Wolkendrachen;Buch;JM;586;49
+0938523;Beer, Hans ¬de¬;Kleiner Eisbär in der Walbucht;Buch;JD.R;582;70
+0508936;Beer, Hans ¬de¬;Kleiner Eisbär, hilf mir fliegen!;Buch;JD.R;580;68
+1034056;Rossmann, Eva;Evelyns Fall;Buch;DR.D;580;80
+1183532;Glavinic, Thomas;¬Das¬ größere Wunder;Buch;DR;579;44
+1118247;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss kommt in die Schule;Buch;JM.CM;577;52
+1177514;Suter, Martin;Allmen und die Dahlien;Buch;DR.D;576;49
+0783857;Vogel, Maja ¬von¬;Geschichten vom kleinen Fohlen;Buch;JE.CB;574;70
+0933269;Osborne, Mary Pope;¬Der¬ geheime Flug des Leonardo;Buch;JM;572;49
+1214346;Simsion, Graeme C.;¬Das¬ Rosie-Projekt;Buch;DR;572;42
+1214277;Noll, Ingrid;Hab und Gier;Buch;DR.D;572;45
+0898712;Rowling, Joanne K.;Harry Potter und die Heiligtümer des Todes;Buch;JM.H;570;121
+0794654;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und die Wetterhexe;Buch;JM;570;42
+1206225;Düringer, Roland;Leb wohl, Schlaraffenland;Buch;PI.Y;570;46
+1128936;Rossmann, Eva;Unter Strom;Buch;DR.D;567;56
+0703928;Nöstlinger, Christine;Mini muss ins Krankenhaus;Buch;JE.C;563;56
+1019918;Osborne, Mary Pope;¬Die¬ geheime Macht der Zauberflöte;Buch;JM;559;43
+1168118;Osborne, Mary Pope;¬Die¬ Feder der Macht;Buch;JM;557;44
+1136089;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und das Geheimnis der Mumie;Buch;JM.CM;556;49
+0765231;Glattauer, Daniel;Gut gegen Nordwind;Buch;DR.G;555;76
+1121338;Vogel, Maja ¬von¬;Mädchengeschichten;Buch;JE.C;554;48
+1166898;Nordqvist, Sven;Findus zieht um;Buch;JD.R;553;45
+1183597;Slupetzky, Stefan;Polivka hat einen Traum;Buch;DR.D;552;44
+1198293;George, Elizabeth;Nur eine böse Tat;Buch;DR.D;549;44
+0988476;Vogel, Maja ¬von¬;Beutejagd am Geistersee;Buch;JE.D;548;50
+0964861;Osborne, Mary Pope;¬Das¬ Ungeheuer vom Meeresgrund;Buch;JM;547;46
+1168577;Reider, Katja;Paula rettet ein Kätzchen;Buch;JE.C;547;41
+1181503;Osborne, Mary Pope;Pandas in großer Gefahr;Buch;JM;547;41
+1188577;Russell, Rachel Renée;Nikkis (nicht ganz so) perfektes erstes Date;Buch;JE;545;37
+1223494;Allen, Woody;Blue Jasmine;DVD;TT.KT.01;544;41
+1124033;Leon, Donna;Reiches Erbe;Buch;DR.D;542;52
+1126891;Adler-Olsen, Jussi;Verachtung;Buch;DR.E;537;55
+1198299;Rowling, Joanne K.;¬Der¬ Ruf des Kuckucks;Buch;DR.D;537;42
+1137858;Osborne, Mary Pope;Lawinenhunde im Schneesturm;Buch;JM;534;39
+1181568;Brezina, Thomas;¬Der¬ Wolf mit dem Goldzahn;Buch;JM.D;532;42
+1199078;Nesser, Håkan;Himmel über London;Buch;DR.D;529;41
+0733886;Dietl, Erhard;¬Die¬ Olchis werden Fußballmeister;Buch;JM.C;529;44
+1013483;Widmark, Martin;¬Das¬ Mumiengeheimnis;Buch;JE.D;526;103
+0733883;Nöstlinger, Christine;Neue Fußballgeschichten vom Franz;Buch;JE.C;524;52
+1038412;Kürthy, Ildikó ¬von¬;Endlich!;Buch;DR.G;524;80
+1168579;Hanauer, Michaela;Prinzessinnengeschichten;Buch;JM.CG;523;40
+0987694;Finsterbusch, Monika;Prinzessin Lillifee und das kleine Reh;Buch;JD.R;521;39
+1065921;Vogel, Maja ¬von¬;Seepferdchen in Gefahr!;Buch;JM.C;520;40
+1183687;Markaris, Petros;Abrechnung;Buch;DR.D;520;46
+0352436;Rowling, Joanne K.;Harry Potter und der Stein der Weisen;Buch;JM.H;519;71
+1222335;Aichner, Bernhard;Totenfrau;Buch;DR.E;518;47
+1218349;Grisham, John;¬Die¬ Erbin;Buch;DR.E;517;43
+1036192;Osborne, Mary Pope;Piratenspuk am Mississippi;Buch;JM;517;41
+1214309;Dietl, Erhard;¬Die¬ Olchis und die große Mutprobe;Buch;JM.C;517;44
+1192471;Falk, Rita;Sauerkraut-Koma;Buch;DR.D;516;38
+1229076;Leon, Donna;¬Das¬ goldene Ei;Buch;DR.D;513;47
+1199067;Fitzek, Sebastian;Noah;Buch;DR.E;511;44
+0988240;Haas, Wolf;¬Der¬ Brenner und der liebe Gott;Buch;DR.D;511;80
+1198271;Munro, Alice;Liebes Leben;Buch;DR;511;43
+1091055;Schirach, Ferdinand ¬von¬;¬Der¬ Fall Collini;Buch;DR.D;510;72
+1125935;Noll, Ingrid;Über Bord;Buch;DR.D;508;52
+1199170;Ahern, Cecelia;¬Die¬ Liebe deines Lebens;Buch;DR;507;43
+1183857;Boehme, Julia;Conni und das neue Fohlen;Buch;JE;507;39
+1133850;James, E. L.;Geheimes Verlangen;Buch;DR;506;51
+1181570;Brezina, Thomas;¬Der¬ große Schnitzel-Schatz;Buch;JM.D;506;42
+0895813;Osborne, Mary Pope;Geheimauftrag in Paris;Buch;JM;505;41
+1169675;Scheffler, Axel;Suchen und Entdecken;Buch;JD.K;505;39
+1035225;Hunter, Erin;Feuersterns Mission;Buch;JM.F;504;64
+1172937;Russell, Rachel Renée;Nikkis (nicht ganz so) guter Rat in allen Lebenslagen;Buch;JE;503;36
+1165703;Raab, Thomas;¬Der¬ Metzger kommt ins Paradies;Buch;DR.D;501;47
+1201938;Salcher, Andreas;Erkenne dich selbst und erschrick nicht;Buch;PI.Y;500;43
+1135323;Haas, Wolf;Verteidigung der Missionarsstellung;Buch;DR;497;59
+1065328;Dietl, Erhard;¬Die¬ Olchis und die Teufelshöhle;Buch;JM;497;46
+1116794;Knister;Hexe Lilli und der kleine Delfin;Buch;JM.C;496;42
+0967435;Knister;Hexe Lilli und der kleine Eisbär Knöpfchen;Buch;JM.C;496;36
+1138191;James, E. L.;Gefährliche Liebe;Buch;DR;495;52
+0445769;Nöstlinger, Christine;Opageschichten vom Franz;Buch;JE.C;494;46
+1213143;Läckberg, Camilla;¬Die¬ Engelmacherin;Buch;DR.D;493;39
+1198384;August, Bille;Nachtzug nach Lissabon;DVD;TT.KT.15;491;39
+0793208;Vogel, Maja ¬von¬;Vorsicht Strandhaie;Buch;JE.D;490;44
+1165467;Meyerhoff, Joachim;Wann wird es endlich wieder so wie es nie war;Buch;DR;490;36
+0961490;Glattauer, Daniel;Alle sieben Wellen;Buch;DR;488;86
+0896951;Vogel, Maja ¬von¬;Tanz der Hexen;Buch;JE.D;488;42
+0896992;Osborne, Mary Pope;¬Das¬ verwunschene Einhorn;Buch;JM;488;44
+1066562;Russell, Rachel Renée;Nikkis (nicht ganz so) fabelhafte Welt;Buch;JE;486;37
+1080484;Dietl, Erhard;¬Das¬ Olchi-ABC;Buch;JD.Z;484;41
+1112268;Scheffler, Ursel;Paula, Prinzessin für einen Tag;Buch;JE.C;482;37
+1168605;Ahrens, Henning;Zorro - Der Rächer der Armen;Buch;JM.C;482;40
+1125938;Suter, Martin;¬Die¬ Zeit, die Zeit;Buch;DR;480;54
+1214274;French, Nicci;Schwarzer Mittwoch;Buch;DR.E;478;39
+1033916;Dietl, Erhard;¬Ein¬ Drachenfest für Feuerstuhl;Buch;JD.R;477;40
+1198921;Oliver, Jamie;Cook clever mit Jamie;Buch;VL.HKT;476;43
+0792754;Osborne, Mary Pope;¬Der¬ gestohlene Wüstenschatz;Buch;JM;475;40
+1189345;Steffensmeier, Alexander;Lieselotte ist krank;Buch;JD.R;475;39
+0702690;Rowling, Joanne K.;Harry Potter und der Halbblutprinz;Buch;JM.H;474;83
+1171906;Pichon, Liz;Ich bin so was von genial (aber keiner merkt's);Buch;JE;473;35
+1178484;Nöstlinger, Christine;Glück ist was für Augenblicke;Buch;PL.MU;473;43
+0919341;Dietl, Erhard;¬Die¬ Olchis und der schwarze Pirat;Buch;JM.C;473;39
+1112483;Sharmat, Marjorie Weinman;Nick Nase auf der Saurierspur;Buch;JE.C;472;43
+1214243;Enrico, Jérôme;Paulette;DVD;TT.KT.04;472;40
+1183685;McEwan, Ian;Honig;Buch;DR;472;44
+0919977;Knister;Hexe Lilli und der Pirat in der Badewanne;Buch;JM.C;471;43
+1108512;Janisch, Heinz;¬Die¬ Froschkönigin;Buch;JD.M;471;80
+1140292;Falk, Rita;Grießnockerlaffäre;Buch;DR.D;469;48
+1136084;Knister;Hexe Lilli und der verzauberte Goldesel;Buch;JM.C;468;40
+1081663;Russell, Rachel Renée;Nikkis (nicht ganz so) glamouröses Partyleben;Buch;JE;468;39
+1199059;Reichs, Kathy;Totengeld;Buch;DR.D;467;40
+1191153;Clark, Christopher M.;¬Die¬ Schlafwandler;Buch;GE.GF;466;30
+1164651;Camilleri, Andrea;¬Die¬ Tage des Zweifels;Buch;DR.D;464;45
+1015544;Dietl, Erhard;¬Die¬ Olchis und die grüne Mumie;Buch;JM;462;44
+1168607;Gerritsen, Tess;Abendruh;Buch;DR.E;461;43
+1222484;Cuarón, Alfonso;Gravity;DVD;TT.KT.07;460;42
+1137842;Knister;Hexe Lilli feiert Geburtstag;Buch;JM.C;460;32
+1079604;Rossmann, Eva;Unterm Messer;Buch;DR.D;459;50
+1199060;Brown, Sandra;Böses Herz;Buch;DR.E;459;39
+0918704;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und die wilden Piraten;Buch;JM;459;39
+1084605;Pichon, Liz;Wo ich bin, ist Chaos - aber ich kann nicht überall sein;Buch;JE;459;36
+1035398;Schirach, Ferdinand ¬von¬;Schuld;Buch;DR.D;458;76
+1214275;Arnaldur Indridason;Duell;Buch;DR.D;457;39
+1116596;Knister;Hexe Lilli und die Zaubernacht im Klassenzimmer;Buch;JM.C;456;37
+1103330;Link, Charlotte;¬Der¬ Beobachter;Buch;DR.E;455;48
+1142812;Adler-Olsen, Jussi;¬Das¬ Washington-Dekret;Buch;DR.E;455;49
+1206183;Gruber, Andreas;Herzgrab;Buch;DR.E;455;40
+1066401;Hunter, Erin;Mitternacht;Buch;JM.F;454;39
+1168592;Chidolue, Dagmar;Millie und die verrückte Schulstunde;Buch;JE.C;454;41
+1183545;McDermid, Val;¬Der¬ Verrat;Buch;DR.E;452;40
+1071635;Leon, Donna;Auf Treu und Glauben;Buch;DR.D;452;57
+1192579;Fraberger, Georg;Ohne Leib, mit Seele;Buch;GS.OB;452;42
+1183252;Chidolue, Dagmar;Millie macht Theater;Buch;JE.C;452;41
+0790598;Knister;Hexe Lilli und der verflixte Gespensterzauber;Buch;JM.C;451;40
+1196822;Bielefeld, Claus-Ulrich;Nach dem Applaus;Buch;DR.D;451;42
+0987459;Pfister, Marcus;¬Der¬ Regenbogenfisch entdeckt die Tiefsee;Buch;JD.R;451;45
+1181569;Brezina, Thomas;¬Das¬ Geheimnis der Geisterstadt;Buch;JM.D;451;40
+0679591;Osborne, Mary Pope;¬Das¬ Geheimnis des alten Theaters;Buch;JM;450;36
+1183257;Dietl, Erhard;¬Die¬ Olchis und die Gully-Detektive von London;Buch;JM;450;41
+1137237;Pfister, Marcus;Schlaf gut, kleiner Regenbogenfisch;Buch;JD.R;450;39
+1216635;Nelson Spielman, Lori;Morgen kommt ein neuer Himmel;Buch;DR;450;43
+1124004;Dietl, Erhard;¬Die¬ Olchis im Bann des Magiers;Buch;JM;450;44
+1174808;Pfeiffer, Boris;¬Der¬ Wikingerschatz;Buch;JE.M;448;34
+1161137;Rossbacher, Claudia;Steirerkind;Buch;DR.D;448;41
+1218359;Suter, Martin;Allmen und die verschwundene María;Buch;DR.D;447;43
+1225298;Walker, Martin;Reiner Wein;Buch;DR.D;445;46
+1160673;Camilleri, Andrea;¬Die¬ Sekte der Engel;Buch;DR.D;444;45
+1132972;Knister;Hexe Lilli und der Vampir mit dem Wackelzahn;Buch;JM.C;444;37
+1136723;Green, John;¬Das¬ Schicksal ist ein mieser Verräter;Buch;DR.J;444;33
+0763936;Osborne, Mary Pope;¬Das¬ mächtige Zauberschwert;Buch;JM;444;40
+0630818;Nöstlinger, Christine;Pferdegeschichten vom Franz;Buch;JE.C;444;45
+0684524;Nöstlinger, Christine;Quatschgeschichten vom Franz;Buch;JE.C;444;43
+1214301;Riley, Lucinda;¬Die¬ Mitternachtsrose;Buch;DR.G;444;40
+1179465;Dahl, Arne;Bußestunde;Buch;DR.D;443;42
+0897957;Dietl, Erhard;¬Die¬ Olchis - so schön ist es im Kindergarten;Buch;JD.R;443;41
+1183528;Clark, Mary Higgins;Spürst du den Todeshauch;Buch;DR.E;442;40
+1197482;Wagenhofer, Erwin;Alphabet;Buch;PI.EP;442;40
+1162479;Menasse, Eva;Quasikristalle;Buch;DR;442;40
+1199069;Föhr, Andreas;Totensonntag;Buch;DR.D;442;40
+1112265;Mai, Manfred;Blitz, der Fußball-Hund;Buch;JE.C;442;40
+1012843;Riordan, Rick;Diebe im Olymp;Buch;JM;441;39
+1192057;Pichon, Liz;Ich hab für alles eine Lösung (aber sie passt nie zum Problem);Buch;JE;441;32
+0901552;Child, Lauren;¬Das¬ ist aber total mein Buch!;Buch;JD.R;441;68
+1138726;Rowling, Joanne K.;¬Ein¬ plötzlicher Todesfall;Buch;DR.G;441;48
+1082840;Nöstlinger, Christine;Geschichten von Mini;Buch;JE.C;440;43
+1179345;Haderer, Georg;Es wird Tote geben;Buch;DR.D;440;43
+1183242;Boehme, Julia;¬Das¬ große Conni-Buch zum Lesenlernen;Buch;JE.C;440;40
+1209289;Scheffler, Axel;Für Hund und Katz ist auch noch Platz;Buch;JD.M;439;39
+1214283;Osborne, Mary Pope;Im Bann des schwarzen Hengstes;Buch;JM;439;39
+1141979;Nöstlinger, Christine;Guter Drache und Böser Drache;Buch;JD.T;439;39
+1088263;Knister;Hexe Lillis lustigste Witze für Erstleser;Buch;JE.W;438;43
+0628705;Nöstlinger, Christine;Mini greift ein!;Buch;JE.C;438;48
+1194367;Riordan, Rick;¬Das¬ Zeichen der Athene;Buch;JM.F;437;35
+0526702;Nordqvist, Sven;Wie Findus zu Pettersson kam;Buch;JD.R;437;40
+1162478;Coudenhove-Kalergi, Barbara;Zuhause ist überall;Buch;GE.H;437;40
+1225297;Camilleri, Andrea;¬Der¬ Tanz der Möwe;Buch;DR.D;436;46
+1168585;Boehme, Julia;Conni und die große Eiszeit;Buch;JE;436;39
+1113849;Pichon, Liz;Eins-a-Ausreden (und anderes cooles Zeug);Buch;JE;436;34
+1202029;Yousafzai, Malala;Ich bin Malala;Buch;BB.OF;436;41
+1203023;Blyton, Enid;Hanni & Nanni 3;DVD;TT.JE;435;37
+1121361;Boehme, Julia;Tiergeschichten;Buch;JE.CG;435;40
+1137740;Boehme, Julia;Conni und die Burg der Vampire;Buch;JE;435;39
+1214305;Scheffler, Ursel;Paula und der Schultüten-Drache;Buch;JE.C;435;41
+1233233;McQueen, Steve (Regisseur);12 Years a Slave;DVD;TT.KT.14;435;41
+1175264;Goppel, Christine;Mein KlappLochSuchBuch - Auf Reisen;Buch;JD.W;432;39
+1116951;Pfeiffer, Boris;¬Der¬ Meisterdieb;Buch;JE.M;432;34
+1132468;Russell, Rachel Renée;Nikki als (nicht ganz so) graziöse Eisprinzessin;Buch;JE;432;34
+1172800;Chapman, Linda;Zirkus der Träume;Buch;JE.NP;432;36
+1124093;Hunter, Erin;¬Der¬ geheime Blick;Buch;JM.F;431;39
+0965113;Dietl, Erhard;¬Die¬ Olchis und der karierte Tigerhai;Buch;JM;431;42
+1166082;Kulot, Daniela;Reim dich nett ins Bett;Buch;JD.L;430;43
+1218357;Safier, David;28 Tage lang;Buch;DR;429;44
+0937942;Hunter, Erin;In die Wildnis;Buch;JM.F;429;38
+1138053;Riordan, Rick;¬Der¬ Sohn des Neptun;Buch;JM.F;428;36
+1183505;McKee, David;Elmar besucht die Wale;Buch;JD.R;428;40
+1012845;Riordan, Rick;Im Bann des Zyklopen;Buch;JM;427;37
+1183686;Hackl, Erich;Dieses Buch gehört meiner Mutter;Buch;DR;426;43
+1113850;Russell, Rachel Renée;Nikkis (nicht ganz so) phänomenaler Auftritt;Buch;JE;426;38
+1218333;Edwardson, Åke;¬Das¬ dunkle Haus;Buch;DR.D;426;41
+1206128;Blyton, Enid;Fünf Freunde 2;DVD;TT.JE;426;36
+1089794;De Waal, Edmund;¬Der¬ Hase mit den Bernsteinaugen;Buch;GE.HW;425;38
+1142388;Pichon, Liz;Alles Bombe (irgendwie);Buch;JE;425;31
+1064296;Riordan, Rick;¬Die¬ Schlacht um das Labyrinth;Buch;JM.F;424;41
+1136482;Watt, Fiona;¬Das¬ ist nicht mein Traktor;Buch;JD.K;424;39
+1191155;Jelinek, Gerhard;Schöne Tage 1914;Buch;GE.GF;424;40
+1216913;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und der große Zauberer;Buch;JM;424;40
+0734105;Knister;Hexe Lilli entdeckt Amerika;Buch;JM.C;424;37
+1175266;Wandrey, Guido;Mein großes Kindergarten-ABC-Wimmelbuch;Buch;JD.W;423;38
+1168591;Lindgren, Astrid;Michels Unfug Nummer 325;Buch;JE.C;422;40
+1136444;Chapman, Linda;Bei den Trollen;Buch;JE.NP;422;33
+1218352;Roberts, Nora;¬Das¬ Geheimnis der Wellen;Buch;DR.E;422;39
+1229504;Jackson, Peter;¬Der¬ Hobbit: Smaugs Einöde;DVD;TT.KT.07;420;40
+0730185;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss - Schulfest auf dem Feuerfelsen;Buch;JM;420;32
+1184763;Gawhary, Karim el-;Frauenpower auf Arabisch;Buch;BI.OF;419;33
+1111829;Knister;Hexe Lilli im Wunderland;Buch;JM.H;418;40
+1213840;Peyo;¬Die¬ Schlümpfe 2;DVD;TT.JD.C;417;36
+1134389;Follett, Ken;Winter der Welt;Buch;DR;417;56
+1198391;Robotham, Michael;Sag, es tut dir leid;Buch;DR.E;417;40
+1193589;Preußler, Otfried;¬Das¬ kleine Gespenst;Buch;JM.G;417;39
+0661857;Hämmerle, Susa;Österreich-Atlas für Kinder;Buch;JR.LEO;416;101
+0768586;Pfister, Marcus;¬Der¬ Regenbogenfisch kehrt zurück;Buch;JD.R;416;39
+1069519;Hunter, Erin;Mondschein;Buch;JM.F;416;40
+1085508;Riordan, Rick;¬Die¬ letzte Göttin;Buch;JM.F;416;39
+1068252;Sol, Mira;Panik im Freizeitpark;Buch;JE.D;415;31
+1183679;Pluhar, Erika;¬Die¬ öffentliche Frau;Buch;DR;415;42
+1174502;Pfister, Marcus;Alles hat einen Namen;Buch;JD.K;415;40
+1179626;Gier, Kerstin;Dream a little dream;Buch;JM.G;415;36
+1112270;Maar, Paul;Hannes und die Wut im Bauch;Buch;JE.C;414;40
+1183541;Grisham, John;¬Das¬ Komplott;Buch;DR.E;414;39
+1140515;James, E. L.;Befreite Lust;Buch;DR;413;44
+1183254;Lindgren, Astrid;Als Klein-Ida auch mal Unfug machen wollte;Buch;JE;412;41
+1162889;Knecht, Doris;Besser;Buch;DR;412;43
+1168222;Nieländer, Peter;Ampel, Straße und Verkehr;Buch;JD.JV;412;32
+1114825;Boehme, Julia;Conni und der Ferienzirkus;Buch;JE;412;39
+1214321;Lehtolainen, Leena;¬Das¬ Nest des Teufels;Buch;DR.D;412;40
+1214308;Mai, Manfred;Blitz, der Fußball-Hund;Buch;JE.C;411;41
+1192058;Le Carré, John;Empfindliche Wahrheit;Buch;DR.E;410;39
+0988826;Vogel, Maja ¬von¬;Alle lieben Emma;Buch;JE.F;410;60
+1197802;Schmid, Thomas;Auf Monsterjagd;Buch;JE.C;410;40
+1136075;Boehme, Julia;Freundschaftsgeschichten;Buch;JE.CG;410;40
+0792753;Osborne, Mary Pope;Sturmflut vor Venedig;Buch;JM;410;36
+0769310;Osborne, Mary Pope;Im Bann des Eiszauberers;Buch;JM;409;38
+1219055;Fielding, Helen;Bridget Jones - verrückt nach ihm;Buch;DR.G;409;42
+1125941;Walker, Martin;Schatten an der Wand;Buch;DR.D;408;44
+1136446;Chapman, Linda;Himmelsfreunde;Buch;JE.NP;408;35
+1212716;Scholl, Susanne;Emma schweigt;Buch;DR;407;37
+0655596;Dietl, Erhard;¬Die¬ Olchis und der faule König;Buch;JM.C;407;33
+1130206;Link, Charlotte;Im Tal des Fuchses;Buch;DR.E;407;44
+1136445;Chapman, Linda;Ferien im Palast;Buch;JE.NP;406;32
+1012904;Riordan, Rick;¬Der¬ Fluch des Titanen;Buch;JM;406;36
+1223515;Bornstädt, Matthias ¬von¬;¬Ein¬ Elch zum Knuddeln;Buch;JE.C;406;62
+1199081;Sparks, Nicholas;Kein Ort ohne dich;Buch;DR.G;405;39
+1041980;Kinney, Jeff;Endlich berühmt!;Buch;JK.T;405;28
+1183554;Slaughter, Karin;Harter Schnitt;Buch;DR.E;404;39
+1043215;Schneider, Liane;¬Das¬ große Conni-Buch;Buch;JE.A;404;38
+1112272;Schmid, Thomas;Huhn über Bord!;Buch;JE.C;403;40
+1085543;Walder, Vanessa;Einhorngeschichten;Buch;JM.CG;403;31
+1140978;Marzuk, Mike;Fünf Freunde;DVD;TT.JE;402;45
+1168584;Rübel, Doris;Ich komme in die Schule;Buch;JD.JV;401;38
+1216667;Enders, Giulia;Darm mit Charme;Buch;NN.KHV;401;37
+0794581;Dietl, Erhard;¬Die¬ Olchis fliegen zum Mond;Buch;JM;401;38
+1064837;Addai, Patrick K.;Soll ich einen Elefanten heiraten, fragte der Frosch;Buch;JD.N;401;78
+1220667;Rossbacher, Claudia;Steirerkreuz;Buch;DR.D;400;39
+1230497;Buck, Chris;¬Die¬ Eiskönigin;DVD;TT.JD.C;400;39
+1087136;Bansch, Helga;Hexlein;Buch;JD.M;399;78
+0988848;Scheffler, Ursel;Paula macht Ferien am Meer;Buch;JE.C;399;31
+1130513;Nesser, Håkan;Am Abend des Mordes;Buch;DR.D;399;43
+0415696;Rowling, Joanne K.;Harry Potter und der Gefangene von Askaban;Buch;JM.H;398;69
+1137833;McKee, David;Elmar und der rosarote Geburtstag;Buch;JD.R;398;37
+1183673;Henisch, Peter;Mortimer & Miss Molly;Buch;DR;398;44
+1136485;Watt, Fiona;¬Das¬ ist nicht mein Dino;Buch;JD.K;398;39
+1183578;Forsyth, Frederick;¬Die¬ Todesliste;Buch;DR.E;398;39
+1112461;Luhn, Usch;Bezaubernde Nixengeschichten für Erstleser;Buch;JM.C;397;33
+1132007;Nöstlinger, Christine;Mehr Geschichten von Mini;Buch;JE.C;397;46
+1170226;Hunter, Erin;Zeit der Dunkelheit;Buch;JM.F;397;41
+1168588;Schmeißer, Frank;Hamstermän;Buch;JM.C;397;41
+0895790;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss reist um die Welt;Buch;JM;397;32
+1146696;Seiser, Katharina;Österreich vegetarisch;Buch;VL.HKV;396;41
+1069316;Mai, Manfred;Robin Hood, König der Wälder;Buch;JM.CO;395;37
+1168615;Baldacci, David;Zero Day;Buch;DR.E;395;38
+0707429;Osborne, Mary Pope;Abenteuer in der Südsee;Buch;JM;394;32
+1171783;Chapman, Linda;¬Das¬ magische Tuch;Buch;JE.NP;394;34
+1218353;Petrowskaja, Katja;Vielleicht Esther;Buch;DR;393;42
+1214325;Nieländer, Peter;Rund um den Fußball;Buch;JD.JS;393;40
+1179020;Riley, Lucinda;¬Der¬ Lavendelgarten;Buch;DR.G;393;34
+1197267;Freund, Eugen;¬Der¬ Tod des Landeshauptmanns;Buch;DR.D;392;39
+1182566;Eco, Umberto;¬Die¬ Geschichte der legendären Länder und Städte;Buch;PL.WM;391;41
+1087224;Boehme, Julia;Conni-Geschichten zum Lesenlernen;Buch;JE.CB;391;37
+0707067;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und der schwarze Ritter;Buch;JM;390;27
+1136447;Chapman, Linda;¬Der¬ silberne Stern;Buch;JE.NP;390;34
+0706057;Lindgren, Astrid;Children's day in Bullerbü;Buch;JF.EE;390;75
+1214278;De Waal, Elisabeth;Donnerstags bei Kanakis;Buch;DR;390;42
+1136793;Hunter, Erin;Fluss der Finsternis;Buch;JM.F;390;41
+0451025;Rowling, Joanne K.;Harry Potter und der Feuerkelch;Buch;JM.H;390;58
+1011662;Gier, Kerstin;Saphirblau. Liebe geht durch alle Zeiten;Buch;JM.F;389;33
+1050635;Cowell, Cressida;Drachenzähmen leicht gemacht;DVD;TT.JD.C;389;37
+1129102;Beer, Hans ¬de¬;Kleiner Eisbär - Lars in der Walbucht;Compact Disc;CD.JM;388;74
+1069073;Luhn, Usch;¬Die¬ spannendsten Prinzessinnengeschichten für Erstleser;Buch;JM.C;388;31
+0986143;Dietl, Erhard;Willi Vampir in der Gruselschule;Buch;JM.C;387;37
+1168578;Zett, Sabine;Abenteuergeschichten;Buch;JE.CG;387;40
+1183526;Boyle, Tom Coraghessan;San Miguel;Buch;DR;387;40
+1183211;Postert, Petra;Traumfee Lula und der Flüsterzauber;Buch;JM.C;387;39
+0351697;Nöstlinger, Christine;Babygeschichten vom Franz;Buch;JE.C;387;48
+1065336;Funke, Cornelia;Dicke Freundinnen;Buch;JE.C;387;30
+0320732;Nöstlinger, Christine;Mini ist kein Angsthase;Buch;JE.C;386;48
+1088594;Mai, Manfred;¬Ein¬ Bruder für Anna;Buch;JE.C;386;33
+1183542;Harris, Robert;Intrige;Buch;DR.E;386;40
+1046267;Herrndorf, Wolfgang;Tschick;Buch;DR.JZ;386;32
+1112490;Mai, Manfred;Siegfried und der Drache;Buch;JM.CO;385;40
+1068269;Chapman, Linda;Wolkes neue Freunde;Buch;JE.NP;384;30
+1200880;Child, Lee;61 Stunden;Buch;DR.E;384;28
+1114357;Walker, Martin;Delikatessen;Buch;DR.D;384;45
+1160420;Heinichen, Veit;Im eigenen Schatten;Buch;DR.D;383;43
+1181822;Kneifl, Edith;¬Die¬ Tote von Schönbrunn;Buch;DR.D;383;34
+1191211;Ohlsson, Kristina;Sterntaler;Buch;DR.E;383;33
+1159133;Larsson, Åsa;Denn die Gier wird euch verderben;Buch;DR.E;382;41
+1214348;Langreuter, Jutta;Käpt'n Sharky bei den Wikingern;Buch;JD.R;382;39
+1198208;Hammesfahr, Petra;Hörig;Buch;DR.E;382;31
+1214311;Nordqvist, Sven;Kennst du Pettersson und Findus?;Buch;JD.K;381;39
+1218304;Dahl, Arne;Neid;Buch;DR.E;381;40
+1168593;Maar, Paul;¬Das¬ Schul-ABC;Buch;JE.C;381;39
+1137864;Riordan, Rick;¬Der¬ verschwundene Halbgott;Buch;JM.F;381;37
+1217377;Wehle, Peter;Kommt Zeit, kommt Mord;Buch;DR.D;381;40
+1186387;Hunter, Erin;Sonnenaufgang;Buch;JM.F;379;37
+0730023;Nöstlinger, Christine;Rudi macht Flohmarkt;Buch;JE.C;379;42
+0733755;Osborne, Mary Pope;Im Auftrag des Roten Ritters;Buch;JM;378;34
+1159167;Hunter, Erin;Verbannt;Buch;JM.F;378;42
+1174818;Chapman, Linda;¬Ein¬ Liebesbrief für Wolke;Buch;JE.NP;378;29
+1160421;Köhlmeier, Michael;¬Die¬ Abenteuer des Joel Spazierer;Buch;DR;377;42
+1164661;Rankin, Ian;Mädchengrab;Buch;DR.D;377;40
+1076974;Dietl, Erhard;¬Die¬ Olchis und das Piratenschiff;Compact Disc;CD.JM;377;39
+1199062;Joyce, Rachel;¬Das¬ Jahr das zwei Sekunden brauchte;Buch;DR;377;39
+1183548;Rose, Karen;Todeskind;Buch;DR.E;376;40
+0937943;Hunter, Erin;Feuer und Eis;Buch;JM.F;376;39
+1218533;Boehme, Julia;Conni und die wilden Tiere;Buch;JE;376;40
+1187238;Taschner, Rudolf;¬Die¬ Zahl, die aus der Kälte kam;Buch;NN.M;376;36
+1026307;Chapman, Linda;Geheimnis der Nacht;Buch;JE.NP;375;31
+1183253;Lindgren, Astrid;Nur nicht knausern, sagte Michel aus Lönneberga;Buch;JE.CO;375;41
+0964648;Hunter, Erin;Geheimnis des Waldes;Buch;JM.F;375;43
+1184998;Bauer, Hermann;Lenauwahn;Buch;DR.D;374;31
+1187019;Flynn, Gillian;Gone girl;Buch;DR.E;374;28
+1234019;Scorsese, Martin;¬The¬ Wolf of Wall Street;DVD;TT.KT.01;374;37
+1183615;Cornwell, Patricia Daniels;Knochenbett;Buch;DR.D;374;39
+1194897;Groos, Wolfgang;¬Die¬ Vampirschwestern;DVD;TT.JM;374;38
+1176137;Lee, Ang;Life of Pi - Schiffbruch mit Tiger;DVD;TT.KT.07;374;43
+1176123;Jackson, Peter;¬Der¬ Hobbit - Eine unerwartete Reise;DVD;TT.KT.07;374;42
+1007014;Adler-Olsen, Jussi;Erbarmen;Buch;DR.E;374;45
+1033743;Nesser, Håkan;¬Die¬ Perspektive des Gärtners;Buch;DR.D;374;45
+1186386;Hunter, Erin;Lange Schatten;Buch;JM.F;374;41
+0791203;Nöstlinger, Christine;Franz auf Klassenfahrt;Buch;JE.C;373;29
+0313090;Nordqvist, Sven;Findus und der Hahn im Korb;Buch;JD.R;373;38
+0680920;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und der große Zauberer;Buch;JM;373;29
+0982636;Rossmann, Eva;Leben lassen;Buch;DR.D;373;69
+1175258;Moost, Nele;Alles Frühling mit dem kleinen Raben Socke;Buch;JD.R;372;39
+1114590;Hout, Mies ¬van¬;Heute bin ich;Buch;JD.T;372;46
+1130305;Fielding, Joy;¬Das¬ Herz des Bösen;Buch;DR.E;372;43
+1088575;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss bei den Indianern;Buch;JM;372;28
+1199058;King, Stephen;Doctor Sleep;Buch;DR.S;372;41
+1109121;Rossbacher, Claudia;Steirerherz;Buch;DR.D;372;41
+1140146;Angermayer, Karen Christine;Ponyhofgeschichten;Buch;JE.CG;372;26
+1218389;Brezina, Thomas;Fang den Fußballfresser;Buch;JM.D;372;39
+1082220;Adler-Olsen, Jussi;Erlösung;Buch;DR.E;371;44
+0792729;Vogel, Maja ¬von¬;¬Der¬ tollkühne kleine Ritter;Buch;JE.C;370;46
+1159136;Kinsella, Sophie;Kein Kuss unter dieser Nummer;Buch;DR.G;370;40
+0923840;Kürthy, Ildikó ¬von¬;Schwerelos;Buch;DR;370;94
+1168049;Stone, Rex;Eoraptor am Abgrund;Buch;JM;369;31
+1069258;Grolik, Markus;Elfi Zauberfee und das Einhorn;Buch;JM.C;369;26
+1170732;Funke, Cornelia;Ritter, Schwert und Drachenblut;Buch;JM.C;368;39
+0986152;Ondracek, Claudia;¬Das¬ Hexeninternat;Buch;JM.C;368;32
+1176598;Boehme, Julia;¬Ein¬ Esel zum Verlieben;Buch;JE.C;368;29
+1168596;Heinlein, Sylvia;Nixe Nane - wo bitte geht's zum Meer?;Buch;JM.C;367;44
+1215352;Reza, Yasmina;Glücklich die Glücklichen;Buch;DR;367;30
+0986247;Hunter, Erin;Gefährliche Spuren;Buch;JM.F;367;38
+1182241;Kinsella, Sophie;¬Das¬ Hochzeitsversprechen;Buch;DR.G;367;34
+1115249;Chapman, Linda;Im Elfenland;Buch;JE.NP;366;32
+1168583;Uebe, Ingrid;Till Eulenspiegel;Buch;JM.C;366;40
+0988846;Bertram, Rüdiger;Jacob, der Superkicker;Buch;JE.C;366;30
+1232295;Moyes, Jojo;Weit weg und ganz nah;Buch;DR.G;366;41
+0735845;Chapman, Linda;Geheimnisvolles Fohlen;Buch;JE.NP;365;32
+1080594;Hunter, Erin;Morgenröte;Buch;JM.F;365;38
+1212417;Leterrier, Louis;¬Die¬ Unfassbaren - Now You See Me;DVD;TT.KT.06;365;35
+0988398;Chapman, Linda;Magische Kräfte;Buch;JE.NP;364;30
+0679828;Knister;Hexe Lilli und die wilden Dinos;Buch;JM.C;363;38
+1115518;Hunter, Erin;Dämmerung;Buch;JM.F;362;39
+1022999;Chapman, Linda;¬Ein¬ zauberhaftes Team;Buch;JE.NP;362;29
+1168590;Schmid, Thomas;Achtung, Party!;Buch;JE.C;362;40
+1023042;Wich, Henriette;Fußballstar in Gefahr;Buch;JE.D;362;28
+1130304;George, Elizabeth;Glaube der Lüge;Buch;DR.D;362;45
+1121358;Steinebacher, Hannah;Zauberschweif und der Feuerspiegel;Buch;JM.C;361;26
+1038483;Adler-Olsen, Jussi;Schändung;Buch;DR.E;361;41
+1086247;Boehme, Julia;¬Der¬ kleine Delfin - Mein Freund aus dem Meer;Buch;JE.C;361;32
+1194598;Pantermüller, Alice;Daher weht der Hase!;Buch;JE;361;31
+1112269;Scheffler, Ursel;Paula auf dem Ponyhof;Buch;JE.C;361;30
+1107125;Martin, George R. R.;¬Die¬ Herren von Winterfell;Buch;DR.F;360;29
+1181949;Berg, Eric;¬Das¬ Nebelhaus;Buch;DR.E;360;33
+1233354;Stölzl, Philipp;¬Der¬ Medicus;DVD;TT.KT.12;360;42
+1183680;Markus, Georg;Es war ganz anders;Buch;GE.OZ;359;43
+0964619;Moost, Nele;Alles Rabenstark! Oder hauen, bis der Milchzahn wackelt?;Buch;JD.R;359;32
+1140153;Mai, Manfred;Krimigeschichten;Buch;JE.C;359;30
+0632573;Knister;Hexe Lilli und der verrückte Ritter;Buch;JM.C;359;36
+1168766;Bannalec, Jean-Luc;Bretonische Brandung;Buch;DR.D;359;34
+1107590;Raab, Thomas;¬Der¬ Metzger bricht das Eis;Buch;DR.D;358;43
+1199873;Holt, Anne;Schattenkind;Buch;DR.D;358;31
+1162852;French, Nicci;Eisiger Dienstag;Buch;DR.E;358;41
+1173456;Bertram, Rüdiger;Detektiv Paule und ein verflixt verzwickter Fall;Buch;JE.C;358;29
+0629607;Chapman, Linda;Geheimnisvolle Verwandlung;Buch;JE.NP;357;31
+1200572;Grimes, Martha;¬Das¬ verschwundene Mädchen;Buch;DR.D;356;30
+1104075;Niavarani, Michael;¬Der¬ frühe Wurm hat einen Vogel;Buch;DR.L;356;47
+1174820;Chapman, Linda;¬Die¬ geheime Flaschenpost;Buch;JE.NP;356;29
+1168121;Ehrlich, Anna;Wien für kluge Kinder;Buch;EH.W;355;44
+1146691;Huppertz, Nikola;Tomma und die Kellerfalle;Buch;JE.C;355;43
+0374442;Rowling, Joanne K.;Harry Potter und die Kammer des Schreckens;Buch;JM.H;355;57
+1182055;Pölsler, Julian;¬Die¬ Wand;DVD;TT.KT.15;355;38
+0986246;Hunter, Erin;Vor dem Sturm;Buch;JM.F;354;35
+1140172;Boehme, Julia;¬Ein¬ Pony braucht Freunde!;Buch;JE.C;353;28
+1138618;Stone, Rex;Umzingelt vom Preondactylus;Buch;JM;352;32
+1183219;Müller, Thomas M.;Was braust so schnell vorbei?;Buch;JD.K;352;41
+1130226;Kaiser, Vea;Blasmusikpop oder Wie die Wissenschaft in die Berge kam;Buch;DR;352;36
+1194883;Boehme, Julia;¬Ein¬ Esel geht zur Schule;Buch;JE.C;351;28
+0982429;Glavinic, Thomas;¬Das¬ Leben der Wünsche;Buch;DR;350;67
+0700765;Kehlmann, Daniel;¬Die¬ Vermessung der Welt;Buch;DR;350;70
+1170764;Benn, Amelie;Angriff der Sturmdrachen;Buch;JM.C;350;32
+1168572;Nahrgang, Frauke;¬Das¬ kleine Schlossgespenst lernt spuken;Buch;JM.CB;349;41
+0989606;McKee, David;Elmars großer Tag;Buch;JD.R;349;34
+1080595;Hunter, Erin;Sternenglanz;Buch;JM.F;349;38
+1166664;Klüpfel, Volker;Herzblut;Buch;DR.D;349;33
+1181592;Taylor, Alison;Barbie in Die verzauberten Ballettschuhe;DVD;TT.JD.C;349;36
+1164553;Dutzler, Herbert;Letzte Bootsfahrt;Buch;DR.D;349;39
+0961338;Gier, Kerstin;Rubinrot. Liebe geht durch alle Zeiten;Buch;JM.F;349;32
+1034955;Fielding, Joy;¬Das¬ Verhängnis;Buch;DR.E;349;73
+1115245;Chapman, Linda;Wolke und die Waldgeister;Buch;JE.NP;348;31
+0546720;Boie, Kirsten;Linnea finds an orphan dog [Medienkombination];Buch;JF.EE;348;71
+1197135;Magenschab, Hans;¬Der¬ Große Krieg;Buch;GE.GF;348;39
+1172934;Arold, Marliese;Picknick mit Pony;Buch;JE.C;348;28
+1190017;Preußler, Otfried;¬Die¬ kleine Hexe;Buch;JM.H;347;42
+0707427;Osborne, Mary Pope;Im Land der ersten Siedler;Buch;JM;346;29
+1041455;Chapman, Linda;Kopf hoch, Saphira!;Buch;JE.NP;345;30
+0938276;Sharmat, Marjorie Weinman;Nick Nase und das Rätsel am Strand;Buch;JE.C;345;36
+1157781;Ware, Bronnie;5 Dinge, die Sterbende am meisten bereuen;Buch;NN.EMW;344;24
+1171696;Tarantino, Quentin;Django unchained;DVD;TT.KT.09;344;44
+1186925;Dam, J. F.;¬Der¬ dritte Berg;Buch;DR.E;344;41
+1017084;Leon, Donna;Schöner Schein;Buch;DR.D;344;56
+1196832;Brezina, Thomas;Detektive - bleibt auf der Spur!;Buch;JM.D;343;40
+1115974;Hunter, Erin;¬Die¬ Suche beginnt;Buch;JM.F;343;41
+1228782;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und der geheimnisvolle Tempel;Buch;JM;343;40
+1163565;Dahl, Arne;Zorn;Buch;DR.E;343;43
+0962222;Leon, Donna;¬Das¬ Mädchen seiner Träume;Buch;DR.D;343;76
+1068251;Wich, Henriette;Achtung, Promihochzeit!;Buch;JE.D;342;28
+1173454;Breitenöder, Julia;¬Die¬ verschwundenen Buchstaben;Buch;JM.C;342;33
+1118254;Kipling, Rudyard;¬Das¬ Dschungelbuch;Buch;JM.CM;342;39
+1218397;Brezina, Thomas;Rettet den Pony-Express;Buch;JM.D;342;39
+1086325;Grimm, Sandra;¬Der¬ Schatz im Einhornwald;Buch;JM.CO;341;27
+1191195;Hoßfeld, Dagmar;Conni, Phillip und ein Kuss im Schnee;Buch;JE;341;33
+1198425;Luhrmann, Baz;¬Der¬ große Gatsby;DVD;TT.KT.15;341;39
+1229501;Lawrence, Francis;Catching fire;DVD;TT.JM;340;38
+1190490;Hart, James V.;Epic;DVD;TT.JD.C;340;35
+1149806;Vermes, Timur;Er ist wieder da;Buch;DR;340;44
+1050636;Grün, Max ¬von der¬;Vorstadtkrokodile 2;DVD;TT.JE;340;68
+1011302;Hunter, Erin;Stunde der Finsternis;Buch;JM.F;340;39
+1160758;Läckberg, Camilla;¬Der¬ Leuchtturmwärter;Buch;DR.D;340;40
+1190126;Bonyhady, Tim;Wohllebengasse;Buch;GE.HWO;340;26
+1199910;Vogel, David;¬Eine¬ Wiener Romanze;Buch;DR;339;39
+1115971;Hunter, Erin;Sonnenuntergang;Buch;JM.F;339;39
+1128948;Mankell, Henning;Erinnerung an einen schmutzigen Engel;Buch;DR;339;49
+1197339;F., Christiane;Christiane F.;Buch;NN.EMW;339;32
+1214263;Schroeder, Renée;Von Menschen, Zellen und Waschmaschinen;Buch;GS.BP;338;41
+1120167;Chidolue, Dagmar;Millie in Wien;Buch;JE;338;39
+1186658;Lercher, Lisa;Mord im besten Alter;Buch;DR.D;337;33
+1068270;Chapman, Linda;Im Zauberwald;Buch;JE.NP;337;29
+1214307;Maar, Paul;¬Der¬ Buchstaben-Zauberer;Buch;JM.C;337;41
+1130232;Ohlsson, Kristina;Tausendschön;Buch;DR.E;337;40
+0634459;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss kommt in die Schule;Buch;JM;336;26
+1098499;Scheffler, Ursel;Paula und der Sonntagshund;Buch;JE.C;336;28
+1169354;Neubauer, Annette;¬Eine¬ Einladung ins Ballett;Buch;JE.C;336;25
+1034749;Noll, Ingrid;Ehrenwort;Buch;DR.D;335;44
+1199166;Wandrey, Guido;¬Das¬ Winter-Wimmelbuch;Buch;JD.W;335;38
+1071637;Walker, Martin;Schwarze Diamanten;Buch;DR.D;334;38
+1214998;Hunter, Erin;¬Der¬ vierte Schüler;Buch;JM.F;334;37
+1067382;Meyerhoff, Joachim;Amerika;Buch;DR;334;30
+1036524;Gier, Kerstin;Smaragdgrün. Liebe geht durch alle Zeiten;Buch;JM.F;334;30
+1041516;Wich, Henriette;Tatort Filmset;Buch;JE.D;334;28
+1168595;Klein, Martin;Ronja und das Zauberpony;Buch;JM.C;334;42
+1164663;Roberts, Nora;¬Die¬ letzte Zeugin;Buch;DR.E;334;39
+1191954;Franz, Andreas;Teufelsbande;Buch;DR.D;333;35
+1179408;Maxian, Beate;Tod hinter dem Stephansdom;Buch;DR.D;333;32
+1216140;Hayder, Mo;¬Die¬ Puppe;Buch;DR.E;333;35
+0634321;Osborne, Mary Pope;Abenteuer in Olympia;Buch;JM;333;29
+1006513;Suter, Martin;¬Der¬ Koch;Buch;DR;333;56
+1217384;Kneifl, Edith;Satansbraut;Buch;DR.D;333;38
+1125940;Markaris, Petros;Zahltag;Buch;DR.D;332;48
+1187887;Gehm, Franziska;¬Ein¬ Date mit Bissverständnis;Buch;JM.G;332;32
+1191171;Moser, Erwin;¬Die¬ Erdmaus und der Regenschirm;Buch;JD.N;331;32
+1026309;Chapman, Linda;Freundschaftszauber;Buch;JE.NP;331;33
+0903177;Addai, Patrick K.;Kofi;Buch;JD;331;64
+1212168;Klugman, Brian;¬Der¬ Dieb der Worte;DVD;TT.KT.14;330;40
+1130258;Safier, David;Muh!;Buch;DR.L;330;45
+1137895;Scheffler, Axel;¬Das¬ Gruselmonster;Buch;JD.R;330;28
+1135364;Napp, Daniel;Dr. Brumm geht wandern;Buch;JD.R;330;32
+1139945;Steffensmeier, Alexander;Lieselotte versteckt sich;Buch;JD.R;330;26
+1124751;Dinter, Jan;Yakari - Geschichten für Erstleser;Buch;JM.CM;329;33
+0988843;Geisler, Dagmar;Gespenster gehen auch zur Schule;Buch;JM.C;329;28
+1218332;Camilleri, Andrea;¬Die¬ Revolution des Mondes;Buch;DR.H;329;41
+1183525;Capus, Alex;¬Der¬ Fälscher, die Spionin und der Bombenbauer;Buch;DR;329;43
+1146689;Seltmann, Christian;Rittergeschichten;Buch;JM.C;328;40
+1200052;Yrsa Sigurðardóttir;Seelen im Eis;Buch;DR.E;328;30
+1136106;Kaup, Ulrike;Lustige Reimgeschichten;Buch;JM.C;328;39
+1228420;Howard, Ron;Rush - Alles für den Sieg;DVD;TT.KT.08;328;36
+1121353;Reider, Katja;¬Die¬ Neue in der Klasse;Buch;JE.C;327;25
+1192208;Faro, Marlene;Kalter Weihrauch;Buch;DR.D;327;28
+1124071;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss besucht den Weihnachtsmann;Buch;JM.X;327;39
+0987414;Knister;Hexe Lilli und Hektors verzwickte Drachenprüfung;Buch;JM.H;327;46
+1129531;Allende, Isabel;Mayas Tagebuch;Buch;DR;327;50
+0706059;Funke, Cornelia;Best girl friends and the horse thief [Medienkombination];Buch;JF.EE;327;70
+1163498;Allen, Woody;To Rome With Love;DVD;TT.KT.01;326;38
+0762231;Rossmann, Eva;Verschieden;Buch;DR.D;326;43
+0434082;Knister;Hexe Lilli feiert Geburtstag;Buch;JM.C;326;34
+1090843;Nesbø, Jo;¬Die¬ Larve;Buch;DR.D;326;40
+1196789;Van Genechten, Guido;Ben der Schneemann;Buch;JD;326;39
+0988829;Vogel, Maja ¬von¬;Für alle Fälle Emma;Buch;JE.F;326;60
+1059200;Geiger, Arno;¬Der¬ alte König in seinem Exil;Buch;DR;325;54
+1156559;Addai, Patrick K.;¬Ein¬ Adler bleibt immer ein Adler;Buch;JD;325;78
+1130313;Neuhaus, Nele;Böser Wolf;Buch;DR.D;325;33
+1022998;Chapman, Linda;Sturmwinds Geheimnis;Buch;JE.NP;324;29
+1171311;Teckentrup, Britta;Ab ins Bett, kleiner Bär;Buch;JD.T;324;39
+0988832;Vogel, Maja ¬von¬;Emma will's wissen;Buch;JE.F;324;58
+0986202;Mai, Manfred;¬Das¬ Trojanische Pferd;Buch;JM.CO;324;34
+1097055;Saldanha, Carlos;Rio;DVD;TT.JD.C;324;36
+1215175;Pittler, Andreas;Charascho;Buch;DR.D;324;39
+1116370;Bannalec, Jean-Luc;Bretonische Verhältnisse;Buch;DR.D;324;37
+1186829;Rendell, Ruth;¬Des¬ Finders Lohn;Buch;DR.D;324;35
+1169745;Hoßfeld, Dagmar;Conni, Paul und die Sache mit der Freundschaft;Buch;JE;323;31
+0794573;Lindgren, Astrid;Pippi Langstrumpf;Buch;JM;323;49
+0943214;Nesser, Håkan;¬Eine¬ ganz andere Geschichte;Buch;DR.D;323;64
+1220346;Maurer, Jörg;Felsenfest;Buch;DR.D;322;34
+1191148;Haider, Edgard;Wien 1914;Buch;GE.OBW;322;31
+1136081;Lindgren, Astrid;¬Ein¬ Kalb fällt vom Himmel;Buch;JE.CO;322;39
+1223175;Bannalec, Jean-Luc;Bretonisches Gold;Buch;DR.D;322;43
+1214239;Boone, Josh;Love Stories - Erste Lieben, zweite Chancen;DVD;TT.KT.04;322;39
+1229545;Preußler, Otfried;¬Das¬ kleine Gespenst;DVD;TT.JM;322;41
+1168848;Funke, Cornelia;Geheimversteck und Geisterstunde;Buch;JM;322;40
+1133534;Jones, Gareth P.;¬Der¬ Clan des Skorpions;Buch;JM;321;31
+1168613;King, Stephen;Joyland;Buch;DR.E;321;42
+0988841;Arold, Marliese;Lotte ist weg!;Buch;JE.C;321;24
+1103318;Ohlsson, Kristina;Aschenputtel;Buch;DR.E;320;39
+1017087;Walker, Martin;Grand Cru;Buch;DR.D;320;39
+1151208;Jolibois, Christian;Wenn mein kleiner Bruder auf die Welt kommt;Buch;JD.R;320;44
+1163536;Föhr, Andreas;Schwarze Piste;Buch;DR.D;320;41
+1041517;Steckelmann, Petra;Vampire in der Nacht;Buch;JE.D;320;28
+1221043;Schätzing, Frank;Breaking News;Buch;DR.E;319;33
+0789213;Mauz, Christoph;Und Paul, der wird Pirat;Buch;JE.C;319;39
+1107236;Falk, Rita;Schweinskopf al dente;Buch;DR.D;319;32
+1140143;Reider, Katja;Dinosauriergeschichten;Buch;JM.C;319;26
+1216107;Connelly, Michael;¬Der¬ Widersacher;Buch;DR.E;319;31
+1183855;Chidolue, Dagmar;Millie wird Millionär;Buch;JE;318;39
+1041456;Chapman, Linda;¬Ein¬ magisches Fest;Buch;JE.NP;318;31
+1121334;Vogel, Maja ¬von¬;Pass auf, kleiner Seehund!;Buch;JM.CB;318;28
+0991984;Niavarani, Michael;Vater Morgana;Buch;DR.L;318;57
+0988396;Chapman, Linda;Geheimnisvolles Einhorn;Buch;JE.NP;318;30
+1068724;Kinney, Jeff;Von Idioten umzingelt!;Buch;JE;317;27
+0295584;Lobe, Mira;Bimbulli;Buch;JD;317;37
+1143033;Daugherty, C. J.;Du darfst keinem trauen;Buch;JE.D;316;34
+1077822;Haderlap, Maja;Engel des Vergessens;Buch;DR;316;46
+0654072;Osborne, Mary Pope;Verschollen auf hoher See;Buch;JM;316;27
+1088643;Glavinic, Thomas;Unterwegs im Namen des Herrn;Buch;DR;316;44
+1216842;Langbein, Kurt;Weissbuch Heilung;Buch;NN.KP;316;29
+0964517;Stone, Rex;¬Die¬ Attacke des Tyrannosaurus;Buch;JM;315;27
+1217887;Streeruwitz, Marlene;Nachkommen;Buch;DR;315;43
+1015570;Arold, Marliese;Mimi will auch ans Meer;Buch;JE.C;315;28
+1038307;Osborne, Mary Pope;Abenteuer mit dem magischen Baumhaus;Buch;JM;315;31
+1015466;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss und das Geheimnis der Mumie;Buch;JM;315;22
+1117040;Steffensmeier, Alexander;Was schmeckt dir, Lieselotte?;Buch;JD.K;315;26
+0982668;Raab, Thomas;¬Der¬ Metzger geht fremd;Buch;DR.D;315;73
+1125866;Joyce, Rachel;¬Die¬ unwahrscheinliche Pilgerreise des Harold Fry;Buch;DR;314;40
+1087197;Pfister, Marcus;¬Der¬ kleine Dino;Buch;JD.N;314;28
+0977178;Kinney, Jeff;Greg Heffley's journal;Buch;JF.E;314;41
+0894601;Landy, Derek;¬Der¬ Gentleman mit der Feuerhand;Buch;JM.D;314;33
+1191906;Haran, Elizabeth;Jenseits des leuchtenden Horizonts;Buch;DR;314;30
+1221039;Tartt, Donna;¬Der¬ Distelfink;Buch;DR;314;28
+0733756;Osborne, Mary Pope;¬Das¬ verzauberte Spukschloss;Buch;JM;314;27
+1171005;Aujourd'hui, Nicolas ¬d'¬;Frechdachs und Angsthase;Buch;JD.T;314;36
+1196944;Fuchssteiner, Felix;Rubinrot;DVD;TT.KT.07;313;40
+1195482;Gravier-Badreddine, Delphine;Mein großes Buch der Dinosaurier;Buch;JD.JN;313;25
+1171499;Blade, Adam;Voltor, der Himmelsrächer;Buch;JM;313;28
+1233991;Batra, Ritesh;Lunchbox;DVD;TT.KT.04;313;36
+1112217;Bauer, Jutta;Steht im Wald ein kleines Haus;Buch;JD.K;312;42
+1113902;Scheffler, Axel;¬Der¬ tolle Roller;Buch;JD.R;312;25
+1198143;Ragnar Jónasson;Todesnacht;Buch;DR.E;312;29
+1065978;Pfister, Marcus;¬Der¬ Regenbogenfisch stiftet Frieden;Buch;JD.R;312;32
+1223765;Daniels, Lee;¬Der¬ Butler;DVD;TT.KT.12;312;36
+1115240;Stone, Rex;¬Der¬ Raubzug des Coelophysis;Buch;JM;312;29
+1176644;Stine, Robert L.;Mörderischer Tanz;Buch;JM.G;312;38
+1214310;Lindgren, Astrid;Als Lisabet sich eine Erbse in die Nase steckte;Buch;JE.C;312;38
+1182247;Weisberger, Lauren;¬Die¬ Rache trägt Prada;Buch;DR.G;312;33
+1190370;Bürkl, Anni;Göttinnensturz;Buch;DR.D;311;27
+0764712;Dietl, Erhard;¬Die¬ Olchis - wenn der Babysitter kommt;Buch;JD.R;311;27
+0629608;Chapman, Linda;Sprung in die Nacht;Buch;JE.NP;311;27
+1225302;Lind, Hera;Verwandt in alle Ewigkeit;Buch;DR;311;39
+1131599;Bauer, Hermann;Nestroy-Jux;Buch;DR.D;311;36
+1168453;Pantermüller, Alice;Hier steckt der Wurm drin!;Buch;JE;311;29
+0545894;Nöstlinger, Christine;Mini feiert Geburtstag;Buch;JE.C;311;36
+1159814;Coelho, Paulo;¬Die¬ Schriften von Accra;Buch;DR;311;49
+0920474;Wich, Henriette;Gefahr im Reitstall;Buch;JE.D;311;29
+1107514;Riordan, Rick;¬Die¬ rote Pyramide;Buch;JM.F;310;35
+1140695;Blade, Adam;Drako, Atem des Zorns;Buch;JM.F;310;26
+1082839;Nöstlinger, Christine;¬Der¬ ganze Franz;Buch;JE;310;29
+1015568;Arold, Marliese;¬Ein¬ Fohlen für Lotte;Buch;JE.C;310;23
+1180403;Pratchett, Terry;Dunkle Halunken;Buch;DR;310;40
+1109136;Camilleri, Andrea;¬Das¬ Ritual der Rache;Buch;DR.D;310;39
+0652818;Osborne, Mary Pope;Gefahr in der Feuerstadt;Buch;JM;310;27
+1232460;Elsberg, Marc;Zero - Sie wissen, was du tust;Buch;DR.E;309;40
+0913777;Gehm, Franziska;¬Eine¬ Freundin zum Anbeißen;Buch;JM.G;309;36
+1038413;Raab, Thomas;¬Der¬ Metzger holt den Teufel;Buch;DR.D;309;45
+1144938;Nikowitz, Rainer;Volksfest;Buch;DR.D;309;43
+0937750;Knister;Hexe Lilli - der Drache und das magische Buch;Buch;JM.H;309;57
+0987094;Wich, Henriette;Teuflisches Handy;Buch;JE.D;308;26
+1215151;Roberts, Nora;Mörderische Sehnsucht;Buch;DR.D;308;35
+1042816;Verne, Jules;Reise um die Erde in 80 Tagen;Buch;JM.CO;308;31
+1034480;Follett, Ken;Sturz der Titanen;Buch;DR;308;71
+0988830;Vogel, Maja ¬von¬;Verrückt nach Emma;Buch;JE.F;308;58
+0553813;Delafosse, Claude;Wunderwelt Körper;Buch;JD.JN;308;31
+1095990;Grün, Max ¬von der¬;Vorstadtkrokodile 3 - Freunde für immer;DVD;TT.JE;308;72
+1086243;Zöller, Elisabeth;Stella, die Sternenfee;Buch;JM.C;307;27
+0896234;McKee, David;Elmar rettet den Regenbogen;Buch;JD.R;307;31
+1221041;Binchy, Maeve;¬Ein¬ Cottage am Meer;Buch;DR.G;307;35
+1179191;Smith, James (Kinderbuchautor);Ich bin immer noch kein Loser;Buch;JE;307;32
+1057686;Suter, Martin;Allmen und die Libellen;Buch;DR.D;307;49
+1170946;Pittler, Andreas P.;¬Der¬ Fluch der Sirte;Buch;DR.D;307;37
+0936987;McKee, David;Elmar zeigt's dem bösen Vogel;Buch;JD.R;306;32
+0765601;Blyton, Enid;Fünf Freunde und das Ungeheuer aus der Tiefe;Buch;JE.D;306;33
+0655592;Dietl, Erhard;¬Die¬ Olchis aus Schmuddelfing;Buch;JD.R;306;29
+1153522;Lennox, Judith;An einem Tag im Winter;Buch;DR;305;39
+1180524;Chapman, Linda;Freunde für immer;Buch;JE.NP;305;34
+1176609;Blade, Adam;Rapu, der Giftkämpfer;Buch;JM;305;27
+1112481;Mai, Manfred;Ecke! Elfer! Tor!;Buch;JE.C;305;29
+1177948;Lindsay-Abaire, David;¬Die¬ Hüter des Lichts;DVD;TT.JD.C;305;38
+1218539;Steffensmeier, Alexander;Wer versteckt sich hier, Lieselotte?;Buch;JD.K;305;39
+0703478;Chapman, Linda;Sternenschweifs Geheimnis;Buch;JE.NP;305;26
+0978009;Kinney, Jeff;Rodrick rules;Buch;JF.E;305;38
+1163415;Brown, Sandra;Blinder Stolz;Buch;DR.E;305;38
+1207677;Benacquista, Tonino;Malavita;Buch;DR.D;305;39
+1118113;Niebuhr, Ansgar;Prinzessin Lillifee und das kleine Einhorn;DVD;TT.JD.C;305;37
+1018521;Sol, Mira;Jagd im Untergrund;Buch;JE.D;304;26
+1069069;Dietl, Erhard;¬Die¬ spannendsten Vampirgeschichten für Erstleser;Buch;JM.C;304;30
+1112488;Mai, Manfred;Wilhelm Tell;Buch;JE.CO;304;39
+1094618;Glattauer, Daniel;Mama, jetzt nicht!;Buch;PL.V;304;37
+1000042;Grün, Max ¬von der¬;Vorstadtkrokodile;DVD;TT.JE;304;62
+1213986;Giordano, Paolo;¬Der¬ menschliche Körper;Buch;DR;304;40
+1160022;Ludwig, Bernhard;¬Die¬ "Morgen darf ich essen, was ich will"-Diät;Buch;VL.GE;303;36
+1111462;Pantermüller, Alice;Alles voller Kaninchen;Buch;JE;303;29
+1077965;Hula, Saskia;Attila - König der Angeber;Buch;JE;303;77
+1045417;Gerritsen, Tess;Totengrund;Buch;DR.D;303;67
+1086246;Schrocke, Kathrin;¬Die¬ Geistervilla;Buch;JM.C;303;28
+1198438;Fossum, Karin;¬Eine¬ undankbare Frau;Buch;DR.D;303;28
+0987654;Wandrey, Guido;Mein großes Kindergarten-Wimmelbuch;Buch;JD.T;302;33
+1207660;Beinert, Claudia;¬Die¬ Herrin der Kathedrale;Buch;DR.H;302;39
+1196588;Lorentz, Iny;Flammen des Himmels;Buch;DR.H;302;39
+1168576;Twain, Mark;Tom Sawyers Abenteuer;Buch;JE.CO;302;41
+1151209;Jolibois, Christian;¬Ein¬ Hendlhof in den Sternen;Buch;JD.R;302;43
+1183683;Rebhandl, Manfred;In der Hölle ist für alle Platz;Buch;DR.D;301;41
+1042330;Scharenberg, Lucy;Marie und der Ferienhund;Buch;JE.C;301;30
+1140138;Glitz, Angelika;Pirat Seewolf lernt lesen;Buch;JE.C;301;29
+1153198;Ahern, Cecelia;Hundert Namen;Buch;DR.G;301;42
+1177593;Lindgren, Astrid;Wir Kinder aus Bullerbü;Compact Disc;CD.JE;301;41
+0588489;Rowling, Joanne K.;Harry Potter und der Orden des Phönix;Buch;JM.H;300;42
+1239416;Haas, Wolf;Brennerova;Buch;DR.D;300;47
+1177507;Braun, Gabriele ¬von¬;Abgehakt;Buch;DR.G;300;42
+0971152;Mauz, Christoph;Angriff der Schrebergartenzombies;Buch;JM.G;300;87
+1206337;Baldacci, David;Doppelspiel;Buch;DR.E;300;32
+1186924;Gauß, Karl-Markus;¬Das¬ Erste, was ich sah;Buch;DR;300;34
+0940025;Gehm, Franziska;¬Ein¬ zahnharter Auftrag;Buch;JM.G;300;33
+1136092;Collodi, Carlo;Pinocchio;Buch;JM.CM;300;41
+1234340;Dagtekin, Bora;Fack Ju Göhte;DVD;TT.KT.04;299;38
+1190307;Loibelsberger, Gerhard;Todeswalzer;Buch;DR.DH;299;33
+1213419;Peetz, Monika;¬Die¬ Dienstagsfrauen zwischen Kraut und Rüben;Buch;DR.G;299;30
+1069075;Allert, Judith;Vampirgeschichten;Buch;JM.C;299;25
+1095411;Mangold, Erni;Lassen Sie mich in Ruhe;Buch;KT.O;299;38
+1137644;Seethaler, Robert;¬Der¬ Trafikant;Buch;DR;299;43
+1197203;Scholler, Christiane;Er war mein Urgroßvater;Buch;GE.H;299;39
+1201429;Jolibois, Christian;Pallawatsch auf dem Hendlhof;Buch;JD.R;298;40
+1089029;Durme, Leen ¬van¬;Zuhause!;Buch;JD.K;298;44
+1022994;Mitgutsch, Ali;Mein schönstes Wimmel-Bilderbuch;Buch;JD.K;298;30
+1232302;Neuhaus, Nele;Sommer der Wahrheit;Buch;DR.G;298;41
+1117036;Steffensmeier, Alexander;Schläfst du schon, Lieselotte?;Buch;JD.K;298;25
+1198285;Wood, Barbara;Im Auge der Sonne;Buch;DR.H;298;39
+1195473;Fitz, Florian David;Jesus liebt mich;DVD;TT.KT.15;297;42
+1137257;Pantermüller, Alice;Wie belämmert ist das denn?;Buch;JE;297;30
+1181811;Crombie, Deborah;Wer Blut vergießt;Buch;DR.D;297;27
+0703470;Chapman, Linda;Lauras Zauberritt;Buch;JE.NP;297;29
+0931757;Rossmann, Eva;Russen kommen;Buch;DR.D;297;62
+0937878;Knister;Pferde;Buch;JE.CS;297;33
+1065995;Stone, Rex;Jagd auf den Compsognathus;Buch;JM;296;29
+1168112;Fitzek, Sebastian;¬Der¬ Nachtwandler;Buch;DR.E;296;34
+1180521;Chapman, Linda;Zauberhaftes Winterfest;Buch;JE.NP;296;30
+1140608;Collins, Suzanne;¬The¬ hunger games;DVD;TT.JM;296;43
+1173773;Williams, John;Stoner;Buch;DR;296;20
+1176604;Mongredien, Sue;¬Die¬ Rache der Schwarzen Königin;Buch;JM;296;22
+1140696;Blade, Adam;Pantrax, Pranken der Hölle;Buch;JM;296;26
+1188283;Cotterill, Colin;¬Der¬ Tote trägt Hut;Buch;DR.D;296;28
+1194903;Blade, Adam;Kryos, der Eiskrieger;Buch;JM;295;26
+1218536;Könnecke, Ole;¬Das¬ große Bilderbuch der ganzen Welt;Buch;JD.K;295;40
+1081210;Markaris, Petros;Faule Kredite;Buch;DR.D;295;48
+0989236;Link, Charlotte;¬Das¬ andere Kind;Buch;DR.D;295;56
+1185077;Camilleri, Andrea;¬Ein¬ Samstag unter Freunden;Buch;DR;295;33
+1181787;Barta, Bernhard;Sissis Tod;Buch;DR.D;295;34
+1130210;Child, Lee;Underground;Buch;DR.E;295;45
+0973501;Walker, Martin;Bruno, chef de police;Buch;DR.D;295;39
+1180520;Chapman, Linda;¬Die¬ Zwillingsfohlen;Buch;JE.NP;294;31
+1114356;Sparks, Nicholas;Mein Weg zu dir;Buch;DR.G;294;39
+0922275;Gehm, Franziska;¬Ein¬ bissfestes Abenteuer;Buch;JM.G;294;34
+1141269;Abedi, Isabel;5 Sterne für Lola;Buch;JE;294;31
+1205079;Tobisch, Lotte von;Langweilig war mir nie;Buch;KT.O;294;26
+0947362;Nesbø, Jo;Schneemann;Buch;DR.D;294;36
+1195714;Hänel, Wolfram;Pony Fleck - das schnellste Fohlen der Welt;Buch;JE.C;294;23
+1120331;Geisler, Dagmar;Wandas erste Schulgeschichten;Buch;JE.C;294;42
+1085137;Eco, Umberto;¬Der¬ Friedhof in Prag;Buch;DR.H;294;44
+1220686;Nöstlinger, Christine;Alles vom Franz und seinen Freunden;Buch;JE;294;41
+0962232;Markaris, Petros;¬Die¬ Kinderfrau;Buch;DR.D;294;43
+1194975;Stine, R. L.;¬Das¬ Todeslos;Buch;JM.G;294;34
+1112263;Arold, Marliese;Keine Angst vor Pferden!;Buch;JE.C;293;22
+1090120;Paolini, Christopher;¬Das¬ Erbe der Macht;Buch;JM.F;293;49
+1175205;Spreckelsen, Tilman;König Artus - Kampf um Excalibur;Buch;JM.C;293;22
+1176565;Steinebacher, Hannah;Zauberschweif und der Poltertroll;Buch;JM.C;293;23
+1169359;Seltmann, Christian;Henri erbt ein Monster;Buch;JM.C;293;29
+1240329;Russell, David O.;American Hustle;DVD;TT.KT.06;293;38
+1019253;Reider, Katja;Katzengeschichten;Buch;JE.C;292;26
+1170765;Benn, Amelie;¬Der¬ Feuerflug der Drachenritter;Buch;JM.C;292;29
+1090829;Nesser, Håkan;¬Die¬ Einsamen;Buch;DR.D;292;39
+1226224;Reider, Katja;Paula feiert Geburtstag;Buch;JE.C;292;41
+1146686;Huppertz, Nikola;¬Die¬ furchtlosen Fürchterlinge;Buch;JE.CM;292;39
+1081179;Chalmers, Natasha;Wien Wimmelbuch;Buch;JD.W;292;33
+1194149;Sol, Mira;Nixensommer;Buch;JE.D;292;35
+1086330;Fischer-Hunold, Alexandra;Prinzessin Rosalea bei den Zauberponys;Buch;JM.CM;292;24
+1065993;Stone, Rex;¬Die¬ Höhle des Apatosaurus;Buch;JM;292;29
+1068629;Vogel, Maja ¬von¬;Emma auf Wolke Sieben;Buch;JE.F;292;56
+1214331;Kulot, Daniela;Zähl dich nett ins Bett;Buch;JD.L;292;39
+0989261;Camilleri, Andrea;¬Die¬ Flügel der Sphinx;Buch;DR.D;292;46
+1126765;Geisel, Theodor Seuss;¬Der¬ Lorax;Buch;JM;291;33
+1140694;Blade, Adam;Vargos, Biss der Verdammnis;Buch;JM;290;24
+0964831;Geisler, Dagmar;Ich geh doch nicht mit jedem mit!;Buch;JD.T;290;35
+0967422;Knister;Hexe Lilli in Lilliput;Buch;JM.H;290;43
+1164796;Nöstlinger, Christine;Als mein Vater die Mutter der Anna Lachs heiraten wollte;Buch;JE.F;290;40
+0703472;Chapman, Linda;¬Die¬ Macht des Einhorns;Buch;JE.NP;290;29
+1225265;Dietl, Erhard;¬Die¬ Olchis werden Fußballmeister;Buch;JM.CO;290;39
+1141307;Hout, Mies ¬van¬;Freunde;Buch;JD.TB;290;34
+0988853;Boie, Kirsten;Kann doch jeder sein, wie er will;Buch;JE.C;290;33
+1183674;Fuego, Andréa ¬del¬;Geschwister des Wassers;Buch;DR;290;78
+0940193;Beckett, Simon;Leichenblässe;Buch;DR.D;290;42
+0303717;Nöstlinger, Christine;Hundegeschichten vom Franz;Buch;JE.C;289;32
+1174590;Dematons, Charlotte;Heute fliege ich ...;Buch;JD.O;289;40
+1197053;Gardner, Lisa;¬Der¬ Tag, an dem du stirbst;Buch;DR.E;289;28
+1114824;Hoßfeld, Dagmar;Conni, Phillip und das Supermädchen;Buch;JE;289;32
+1218505;Napp, Daniel;Dr. Brumm feiert Geburtstag;Buch;JD.R;289;39
+1112734;Smith, James (Kinderbuchautor);Ich bin kein Loser;Buch;JE;289;33
+0757862;Nesser, Håkan;¬Die¬ Fliege und die Ewigkeit;Buch;DR.D;289;43
+1168573;Kaup, Ulrike;¬Der¬ Buchstabenpirat;Buch;JM.C;289;40
+1078170;Suter, Martin;Allmen und der rosa Diamant;Buch;DR.D;289;42
+1113901;Scheffler, Axel;¬Die¬ kleine Pfütze;Buch;JD.R;289;26
+1218541;Steffensmeier, Alexander;Was passiert da, Lieselotte?;Buch;JD.K;289;40
+1168614;Child, Lincoln;Hüter des Todes;Buch;DR.E;289;39
+1178865;Grager, Veronika A.;Saupech;Buch;DR.D;288;32
+0937930;Weinhold, Angela;¬Die¬ Dinosaurier;Buch;JD.JN;288;24
+1038313;Abedi, Isabel;Lola Schwesterherz;Buch;JE;288;34
+1234339;Stiller, Ben;¬Das¬ erstaunliche Leben des Walter Mitty;DVD;TT.KT.08;288;34
+0971779;Gehm, Franziska;¬Ein¬ bißfestes Abenteuer;Compact Disc;CD.JM.G;288;40
+0655769;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss - Hab keine Angst;Buch;JM;288;22
+1066278;Dutzler, Herbert;Letzter Kirtag;Buch;DR.D;288;36
+1163993;Brezina, Thomas;¬Das¬ Buch aus Atlantis;Buch;JE.DR;288;28
+1181567;Hula, Saskia;¬Die¬ coolste Schule der Welt;Buch;JE;287;39
+1151207;Jolibois, Christian;¬Ein¬ kleines Henderl will das Meer sehen;Buch;JD.R;287;43
+1011405;Nesbø, Jo;Leopard;Buch;DR.D;287;38
+0989024;Grimm, Sandra;¬Die¬ Eisprinzessin;Buch;JM.CO;287;24
+1211352;Grout, Pam;E²;Buch;PI.OO;286;39
+1168574;Clarke, Catriona;Piraten;Buch;JG.V;286;42
+1241279;Herngren, Felix;¬Der¬ Hundertjährige, der aus dem Fenster stieg und verschwand;DVD;TT.KT.15;285;41
+1086237;Gehm, Franziska;¬Der¬ Frosch im Himmelbett;Buch;JM.CB;285;26
+0938277;Dietl, Erhard;¬Das¬ Fehlerteufelchen;Buch;JM.C;285;30
+1217513;Winder, Ludwig;¬Der¬ Thronfolger;Buch;DR;285;28
+1171803;Wimmer, Carola;Ostwind;Buch;JE.NP;285;29
+1183221;Lohf, Sabine;Zitronengelb und Feuerrot;Buch;JD.K;285;41
+1169767;Naber, Sabina;Marathonduell;Buch;DR.D;285;36
+1184273;Hjorth, Michael;¬Die¬ Toten, die niemand vermisst;Buch;DR.D;285;32
+1173949;Moser, Erwin;Wie geht's dem Schweinchen?;Buch;JD.N;284;31
+1201428;Jolibois, Christian;¬Das¬ Monster mit dem Gockelkopf;Buch;JD.R;284;40
+1173643;Lind, Hera;Verwechseljahre;Buch;DR.G;284;29
+0923685;Zusak, Markus;¬Die¬ Bücherdiebin;Buch;JE.GZZ;284;29
+1069313;Mai, Manfred;Artus und das Schwert im Stein;Buch;JM.CO;284;34
+0599020;Beer, Hans ¬de¬;Küçük beyaz ayi beni yalniz biirakma!;Buch;JF.TZ;284;80
+1121408;Gehm, Franziska;Bissgeschick um Mitternacht;Buch;JM.G;284;31
+1086342;Stone, Rex;In den Fängen des Protosuchus;Buch;JM;284;27
+1140129;Gehm, Franziska;Prinzessin Sofie findet eine Freundin;Buch;JM.CB;284;28
+1168608;Deaver, Jeffery;¬Die¬ Angebetete;Buch;DR.E;284;40
+1115787;Widmark, Martin;¬Das¬ Fußballgeheimnis;Buch;JE.D;283;33
+1113852;Brezina, Thomas;¬Die¬ Feuer speiende Maske;Buch;JE.DR;283;29
+0412529;Weninger, Brigitte;Pauli, Streit mit Edi;Buch;JD.R;283;35
+1151210;Jolibois, Christian;Um Gockels willen! Irgendwer hat die Sonne gestohlen!;Buch;JD.R;283;45
+1151826;Blyton, Enid;Hanni & Nanni 2;DVD;TT.JE;283;35
+1092880;Stone, Rex;¬Die¬ List des Lystrosaurus;Buch;JM;283;29
+1015554;Baeten, Lieve;¬Die¬ kleine Hexe zaubert;Buch;JD.R;282;33
+0705052;Funke, Cornelia;Tintenblut;Buch;JM.F;282;64
+1189110;Raimi, Sam;¬Die¬ fantastische Welt von Oz;DVD;TT.JM;282;42
+1086832;Lütje, Susanne;Robin findet ein Dingsda;Buch;JM.C;282;27
+0406635;Beer, Hans de;Kleiner Eisbär, lass mich nicht allein!;Buch;JD.R;282;33
+1018626;Boehme, Julia;Conni auf dem Reiterhof;Buch;JE.C;282;26
+1169670;Scheffler, Axel;¬Der¬ rote Ballon;Buch;JD.R;282;23
+1214138;Steinfest, Heinrich;¬Der¬ Allesforscher;Buch;DR;281;32
+1176588;Boehme, Julia;Tafiti und die Reise ans Ende der Welt;Buch;JM.C;281;29
+0971783;Gehm, Franziska;¬Eine¬ Freundin zum Anbeißen;Compact Disc;CD.JM.G;281;40
+1214353;Scheffler, Ursel;¬Der¬ Hai in der Haifischbar und 6 andere spannende Fälle;Buch;JE.D;281;41
+0703474;Chapman, Linda;Nacht der 1000 Sterne;Buch;JE.NP;281;23
+1190192;Dicker, Joël;¬Die¬ Wahrheit über den Fall Harry Quebert;Buch;DR;281;27
+0680513;Boie, Kirsten;Lena wünscht sich auch ein Handy;Buch;JE.C;281;37
+1192934;Verne, Jules;¬Die¬ Reise zum Mittelpunkt der Erde;Buch;JM.C;280;26
+1182615;Jones, Christina;Blütenzauber und Liebeswunder;Buch;DR.G;280;29
+1166906;Geisler, Dagmar;Ich geh doch nicht verloren!;Buch;JD.T;280;30
+1229950;Child, Lee;Wespennest;Buch;DR.E;280;30
+1138404;Brett, Lily;Lola Bensky;Buch;DR;280;46
+1171697;Spielberg, Steven;Lincoln;DVD;TT.KT.12;280;41
+1121357;Boehme, Julia;Paula Piratenschreck;Buch;JM.C;279;29
+1118263;Blyton, Enid;Fünf Freunde im Geisterwald;Buch;JE.D;279;29
+1207682;Soderbergh, Steven;Side Effects - Tödliche Nebenwirkungen;DVD;TT.KT.06;279;36
+1023539;Knister;¬Die¬ Reise nach Mandolan;Buch;JM.H;279;39
+1068913;Hoßfeld, Dagmar;Conni, Mandy und das große Wiedersehen;Buch;JE;279;33
+0986653;Stange, Hermann;Zeus, Herkules und Co.;Buch;JM.S;279;72
+0597727;Funke, Cornelia;Tintenherz;Buch;JM.F;279;37
+1140916;Jones, Gareth P.;¬Das¬ Auge der Shaolin;Buch;JM;279;31
+1194165;Misra, Michelle;Allosaurus in Not;Buch;JM.C;278;32
+0997576;Gehm, Franziska;¬Ein¬ zahnharter Auftrag;Compact Disc;CD.JM.G;278;40
+1163417;Edwardson, Åke;¬Die¬ Rache des Chamäleons;Buch;DR.E;278;42
+1136077;Mai, Manfred;¬Die¬ Sieben Schwaben;Buch;JM.CO;278;39
+1103313;French, Nicci;Blauer Montag;Buch;DR.E;278;39
+1112891;Saan, Anita ¬van¬;Von Mamas und Papas;Buch;JD.JN;278;84
+1169357;Birck, Bengt;Kleiner Hund in großer Gefahr;Buch;JE.C;278;22
+0965006;Wich, Henriette;Gefährliche Fracht;Buch;JE.D;278;25
+1160418;Scheffler, Ursel;Kugelblitz und die Buchstaben-Detektive;Buch;JE.DR;278;39
+0768916;Knister;Hexe Lilli im Land der Dinosaurier;Buch;JM.H;277;45
+0010391;Nordqvist, Sven;Aufruhr im Gemüsebeet;Buch;JD.R;277;34
+1196656;Vahle, Fredrik;Durch den Wald;Compact Disc;CD.JD.L;277;39
+0939558;Berner, Rotraut Susanne;Rotraut Susanne Berners Nacht-Wimmelbuch;Buch;JD.R;277;37
+1058500;Rossbacher, Claudia;Steirerblut;Buch;DR.D;277;33
+0937315;Paolini, Christopher;¬Die¬ Weisheit des Feuers;Buch;JM.F;277;51
+1232304;Patterson, James;¬Die¬ 11. Stunde;Buch;DR.E;277;39
+1216584;Kepler, Lars;¬Der¬ Sandmann;Buch;DR.E;276;27
+1115236;Stone, Rex;¬Die¬ Rettung des Plateosaurus;Buch;JM;276;27
+1130300;Clark, Mary Higgins;Mein Auge ruht auf dir;Buch;DR.E;276;43
+1088259;Seltmann, Christian;Paul - plötzlich Vampir!;Buch;JM.C;276;27
+0514070;Nöstlinger, Christine;Mini und Mauz;Buch;JE.C;276;30
+1087660;Clare, Cassandra;City of fallen angels;Buch;DR.JF;275;24
+1212715;Palm, Kurt;Bringt mir die Nudel von Gioachino Rossini;Buch;DR;275;40
+1055500;Falk, Rita;Winterkartoffelknödel;Buch;DR.D;275;27
+0986234;Hagemann, Bernhard;Detektiv Leon stellt eine Falle;Buch;JE.C;275;28
+0449099;Knister;Hexe Lilli und das Geheimnis der versunkenen Welt;Buch;JM.H;275;41
+1196919;Gablé, Rebecca;¬Das¬ Haupt der Welt;Buch;DR.H;275;24
+1198616;Polley, Sarah;Take this waltz;DVD;TT.KT.04;274;41
+1118252;Thilo;Ägypten;Buch;JE.CM;274;40
+0987968;Brown, Dan;¬Das¬ verlorene Symbol;Buch;DR.E;274;60
+1188152;Martin, George R. R.;¬Das¬ Urteil der Sieben;Buch;DR.F;274;30
+1138422;Morton, Kate;¬Die¬ verlorenen Spuren;Buch;DR.G;274;40
+0920233;Finsterbusch, Monika;Prinzessin Lillifee und der kleine Delfin;Buch;JD.R;274;23
+1186510;Cotterill, Colin;¬Der¬ fröhliche Frauenhasser;Buch;DR.D;274;32
+1161581;Juul, Jesper;Aggression;Buch;PI.EP;274;31
+1018620;Hoßfeld, Dagmar;Conni, Billi und die Mädchenbande;Buch;JE;274;29
+0794509;Ondracek, Claudia;Rettung für Flöckchen;Buch;JE.C;274;25
+1193178;Widmark, Martin;¬Das¬ Krankenhausgeheimnis;Buch;JE.D;273;33
+1166823;Chidolue, Dagmar;Millie in Tirol;Buch;JE;273;39
+1115786;Widmark, Martin;¬Das¬ Bibliotheksgeheimnis;Buch;JE.D;273;36
+1010730;Fröhlich, Anja;Müssen wir? Eine kleine Klogeschichte;Buch;JD.N;273;40
+1195191;McCreight, Kimberly;¬Die¬ letzte Wahrheit;Buch;DR.E;273;26
+1192812;Kosinski, Joseph;Oblivion;DVD;TT.KT.07;272;38
+1213483;Clancy, Tom;Gefahrenzone;Buch;DR.E;272;29
+1139089;Lütje, Susanne;¬Der¬ richtige Riecher;Buch;JM.C;272;27
+1162801;Poznanski, Ursula;Blinde Vögel;Buch;DR.E;272;40
+0682458;Osborne, Mary Pope;¬Den¬ Gorillas auf der Spur;Buch;JM;272;25
+1186880;Gstrein, Norbert;¬Eine¬ Ahnung vom Anfang;Buch;DR;272;34
+1225486;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss bei den Indianern;Buch;JM;272;41
+0964518;Stone, Rex;¬Die¬ Flucht des Triceratops;Buch;JM;272;23
+0654610;Black, Holly;¬Eine¬ unglaubliche Entdeckung;Buch;JM.G;271;44
+1162885;Maurer, Jörg;Unterholz;Buch;DR.D;271;31
+0989009;Vogel, Maja von;Prinzessin Furchtlos;Buch;JM.C;271;26
+0707426;Osborne, Mary Pope;Mit Anne und Philipp im Weltall;Buch;JM;271;28
+1067867;Falk, Rita;Dampfnudelblues;Buch;DR.D;271;29
+1178004;Ott, Elfriede;Worüber ich lache;Buch;KT.O;271;36
+1042815;Spyri, Johanna;Heidi;Buch;JE.CO;271;24
+1020792;Gehm, Franziska;Ferien mit Biß;Compact Disc;CD.JM.G;271;40
+1135380;Melling, David;Schlaf gut, Paulchen!;Buch;JD.N;271;25
+1023004;Chapman, Linda;Liebeszauber;Buch;JE.NP;270;22
+0991576;Nesser, Håkan;¬Das¬ zweite Leben des Herrn Roos;Buch;DR.D;270;63
+1225301;Hackl, Erich;Drei tränenlose Geschichten;Buch;DR;270;44
+1172935;Lütje, Susanne;Alarm im Klassenzimmer;Buch;JM.C;270;28
+1170346;Murakami, Haruki;Südlich der Grenze, westlich der Sonne;Buch;DR;270;31
+1042813;Wiechmann, Heike;¬Das¬ Detektivpony;Buch;JE.C;270;24
+1186559;Bluhm, Maja;Meine Mutter, meine Tochter, ihr Freund, sein Vater und ich;Buch;DR.G;269;26
+1027710;Glattauer, Daniel;Theo;Buch;DR;269;43
+1038031;Thilo;Auf zum König, kleiner Drachenreiter!;Buch;JM.CB;269;31
+1011573;Widmark, Martin;¬Das¬ Schulgeheimnis;Buch;JE.D;269;32
+1228375;Polanski, Roman;Venus im Pelz;DVD;TT.KT.01;269;37
+1228804;Siegner, Ingo;¬Der¬ kleine Drache Kokosnuss - Das große ABC-Buch;Buch;JD.Z;269;37
+1194902;Blade, Adam;Rokk, die Felsenfaust;Buch;JM;269;26
+1123354;Franz, Andreas;Todesmelodie;Buch;DR.D;269;36
+0794281;Walder, Vanessa;Feengeschichten;Buch;JM.C;269;28
+0893731;Nahrgang, Frauke;Nein, ich geh nicht mit, ich kenn dich nicht!;Buch;JE.C;269;33
+1161266;Rose, Karen;Todeskleid;Buch;DR.E;269;41
+0791192;Königsberg, Katja;Krimigeschichten zum Mitraten;Buch;I-07/13;268;30
+1216147;Hill, Reginald;¬Der¬ Tod heilt alle Wunden;Buch;DR.D;268;28
+1210972;Cleeves, Ann;Tote Wasser;Buch;DR.D;268;26
+1071598;Camilleri, Andrea;¬Das¬ Netz der großen Fische;Buch;DR.D;268;44
+1186973;Forester, Cecil S.;Tödliche Ohnmacht;Buch;DR.D;267;30
+0703467;Chapman, Linda;Freunde im Zauberreich;Buch;JE.NP;267;25
+0930997;Camilleri, Andrea;¬Die¬ schwarze Seele des Sommers;Buch;DR.D;267;42
+1166356;Franz, Andreas;Tödlicher Absturz;Buch;DR.D;267;29
+1121397;Blade, Adam;Ecor, Hufe der Zerstörung;Buch;JM.F;267;26
+1242048;Prochaska, Andreas;¬Das¬ finstere Tal;DVD;TT.KT.09;267;41
+1175325;Haller, Reinhard;¬Die¬ Narzissmusfalle;Buch;PI.HKP;267;32
+1088660;Reider, Katja;¬Der¬ mutigste Ritter der Welt;Buch;JM.C;267;26
+1218535;Funke, Cornelia;Katzen, Hunde, freche Ziegen;Buch;JM.C;267;41
+1218134;Cabot, Meg;Keine Schokolade ist auch keine Lösung;Buch;DR.G;267;32
+0634322;Osborne, Mary Pope;Im Auge des Wirbelsturms;Buch;JM;267;23
+1086245;Wiechmann, Heike;Reitstallgeschichten;Buch;JE.C;267;25
+1088664;Mai, Manfred;Kleiner Fuchs auf großer Jagd;Buch;JE.C;266;23
+1086214;Funke, Cornelia;Rittergeschichten;Buch;JM.CO;266;30
+1129543;Irving, John;In einer Person;Buch;DR;266;47
+1122338;Moyes, Jojo;Me before you;Buch;FS.E;266;28
+1077165;Suess, Anne;¬Mein¬ großes Wimmelbuch Tiere;Buch;JD.W;266;27
+1225294;Lewitscharoff, Sibylle;Killmousky;Buch;DR.D;266;39
+0988985;Funke, Cornelia;¬Das¬ verzauberte Klassenzimmer;Buch;JM.C;266;30
+1140692;Blade, Adam;Tarax, Klauen der Finsternis;Buch;JM;266;28
+1193429;Finsterbusch, Monika;Vorhang auf für Prinzessin Lillifee!;Buch;JD.R;266;33
+0988828;Vogel, Maja ¬von¬;Emma traut sich was;Buch;JE.F;266;56
+1121333;Reider, Katja;Paulas erster Schultag;Buch;JE.CB;265;30
+1238384;Jarmusch, Jim;Only Lovers Left Alive;DVD;TT.KT.01;265;38
+1228355;Coen, Joel;Inside Llewyn Davis;DVD;TT.KT.01;265;35
+1122834;Cleminson, Katie;Otto, der Bücherbär;Buch;JD.N;265;34
+1021571;Bertram, Rüdiger;¬Der¬ Leserabe auf Schatzsuche;Buch;JM.C;265;23
+1175208;Dreller, Christian;¬Die¬ drei Musketiere - Einer für alle, alle für einen;Buch;JM.C;265;22
+1175554;Sten, Viveca;Mörderische Schärennächte;Buch;DR.D;265;25
+0978154;Gehm, Franziska;Ferien mit Biss;Buch;JM.G;264;29
+1194977;Landy, Derek;Duell der Dimensionen;Buch;JM.G;264;33
+0553981;Boehme, Julia;Conni und der Liebesbrief;Buch;JE.L;264;27
+0347891;Rübel, Doris;Wir entdecken unseren Körper;Buch;JD.JN;264;28
+0964634;Gehm, Franziska;Herzgeflatter im Duett;Buch;JM.G;264;30
+>>>>>>> 9b01edd6bbbf7928341607fdcf4a9986902a40a8
